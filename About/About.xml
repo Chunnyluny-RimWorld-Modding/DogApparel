@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Dog utility</name>
+	<authors>
+		<li>Chunnyluny</li>
+		<li>Octogiraffe</li>
+	</authors>
+	<packageId>chunnyluny.dogutility</packageId>
+	<description>Are you missing protective apparel for your four legged companions? Don't hesitate longer! Have your fur babies protected from warcrimes. This mod will add textures for bulletproof dog vest which are cheaper and lighter in weight than animal flak amour.
+Equipment that will be added by this mod is listed below:		
+		<li>Dog bulletproof vest</li>
+		<li>Dog bulletproof vest with guard dog printed on it.</li>
+		<li>Bombsuit for dogs</li>
+		<li>IED detecting Dog vest</li>
+		<li>Cosmetic detective coat with matching detective hat for dogs.</li>
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>Dylan.AnimalGear</packageId>
+			<displayName>Animal Gear</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1541438907</steamWorkshopUrl>
+			<downloadUrl>steam://url/CommunityFilePage/1541438907</downloadUrl>
+		</li>
+		<li>
+			<packageId>Owlchemist.AnimalGear.Equipment</packageId>
+			<displayName>Animal Equipment</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage256/</steamWorkshopUrl>
+			<downloadUrl>steam://url/CommunityFilePage/2568865984</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Dylan.AnimalGear</li>
+		<li>Owlchemist.AnimalGear.Equipment</li>
+	</loadAfter>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+</ModMetaData>
