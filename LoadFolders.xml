@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <loadFolders>
-  <v1.4>
-	  <li>Content</li>
-	  <li IfModActive="oskarpotocki.vanillafactionsexpanded.core">Mods/VEF</li>
-    <li IfModActive="vanillaexpanded.vaed">Mods/vanillaexpanded.vaed</li>
-  </v1.4>
-  </loadFolders>
+	<v1.4>
+		<li>Content</li>
+		<li IfModActive="vanillaexpanded.vaed">Mods/vanillaexpanded.vaed</li>
+	</v1.4>
+</loadFolders>
