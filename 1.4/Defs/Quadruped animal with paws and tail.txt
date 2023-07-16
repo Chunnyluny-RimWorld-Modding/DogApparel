@@ -1,4 +1,5 @@
-<BodyDef>
+<Defs>
+	<BodyDef>
 		<defName>QuadrupedAnimalWithPawsAndTail</defName>
 		<label>quadruped animal</label>
 		<corePart>
@@ -234,3 +235,4 @@
 			</parts>
 		</corePart>
 	</BodyDef>
+</Defs>
