@@ -4,5 +4,8 @@
     "dogutility",
     "Octogiraffe",
     "vanillaexpanded"
+  ],
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "Master"
   ]
 }
