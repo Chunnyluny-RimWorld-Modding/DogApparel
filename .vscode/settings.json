@@ -1,3 +1,11 @@
 {
-  "xml.downloadExternalResources.enabled": true
+  "xml.downloadExternalResources.enabled": true,
+  "cSpell.words": [
+    "dogutility",
+    "Octogiraffe",
+    "vanillaexpanded"
+  ],
+  "githubPullRequests.ignoredPullRequestBranches": [
+    "Master"
+  ]
 }
