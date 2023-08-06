@@ -4,6 +4,7 @@
 &emsp;
 ![GitHub](https://img.shields.io/github/license/Chunnyluny/Dogutility?style=for-the-badge&logo=GitHub)
 &emsp; 
+[![Discord](https://img.shields.io/discord/688796862639112277?style=for-the-badge&logo=discord)](https://discord.gg/NjbW9RTQkA)
 
 Dogutility is a [mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgments) below for important information.
 
