@@ -1,9 +1,9 @@
 # Dogutility
 
-[![Built for RimWorld](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FChunnyluny%2FDogutility%2Fmain%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&style=for-the-badge&label=Built%20for%20RimWorld)](https://rimworldgame.com/)
+[![Built for RimWorld](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainArbitrary%2FManyMedicines%2Fmain%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&style=for-the-badge&label=Built%20for%20RimWorld)](https://rimworldgame.com/)
 &emsp;
-![GitHub](https://img.shields.io/github/license/Chunnyluny/Dogutility?style=for-the-badge&logo=github&logoColor=purple&label=License&labelColor=grey&link=popupwindow)
-&emsp;
+![GitHub](https://img.shields.io/github/license/Chunnyluny/Dogutility?style=for-the-badge&logo=GitHub)
+&emsp; 
 
 Dogutility is a [mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgments) below for important information.
 
