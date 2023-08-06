@@ -1,6 +1,15 @@
-# RimWorld mod: Dog utility
+# Dogutility
+
+[![Built for RimWorld](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainArbitrary%2FManyMedicines%2Fmain%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&style=for-the-badge&label=Built%20for%20RimWorld)](https://rimworldgame.com/)
+&emsp;
+![GitHub](https://img.shields.io/github/license/Chunnyluny/Dogutility?style=for-the-badge&logo=GitHub)
+&emsp; 
+
+Dogutility is a [mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgments) below for important information.
 
 The Dog Utility mod enhances gameplay in RimWorld by introducing dogs as supportive companions to disabled or impaired pawns. These dogs are trained to assist their owners in various tasks, including danger detection, item retrieval, and solving mysteries. Players will need to research and equip their dogs with specialized gear and equipment to utilize these features effectively.
+
+---
 
 Feature: Support Dogs
 
@@ -38,4 +47,29 @@ This feature is for roleplaying reasons and has no additional function rather th
 Research: Add "Support Dog Training" as a new research project.
 New Jobtoil: Task assignment for pawns: Enable pawns to assign tasks to their support dogs, such as danger detection or item retrieval.
 
-- Tags: Protective support, dogtective, dogutility, animalgear, animalequipment. Bulletproofvest, IEDs, bombsuits.
+---
+
+# FAQ
+
+### Can I add this mod to a save game?
+
+Yes. No problem. But make sure these apparel won't be used or availabe in stockpile. You need to enabel them first; be aware any mod that adds new items, such as food, drugs, and clothing, is automatically disabled in stockpiles. Colonists will ignore them, and they will not haul or wear the item. When you just added this mod, the items are not automatically included in the stockpiles or recipes. This is not considered a bug or an error. You just need to tick them on for recipes or stockpiles etc. after you enable them, they will show up.
+
+### Can I remove this mod from a save game?
+
+I wouldn't advise it, as a general rule. If you really want to, start by backing up your saves, then get rid of all the mod-added items in your game and make sure none of your pawns/colony animals are wearing any apparel. No apparel is made at the tailor table etc. Make sure they are not stored in stockpiles, and pawns are not training animals, cancel any research related to this mod. Then you can try removing the mod. But I can't promise to help you if this breaks your save. That's what the backup is for.
+
+### CE?
+
+No idea. I don't play with [Combat Extended](https://steamcommunity.com/workshop/filedetails/?id=2890901044). I'd love for somebody to try it out and tell me.
+
+### Can I use this with [some other mod]?
+
+Probably. It's extremely unlikely for there to be any conflict between Dogutility and any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/Dogutility/issues/new) about it.
+
+#### Steam or GitHub?
+This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I don't own RimWorld on Steam I can't upload it to the RimWorld workshop page.
+
+# Acknowledgments
+
+Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
