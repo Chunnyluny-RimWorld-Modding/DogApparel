@@ -71,6 +71,6 @@ Probably. It's extremely unlikely for there to be any conflict between Dogutilit
 #### Steam or GitHub?
 This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I don't own RimWorld on Steam I can't upload it to the RimWorld workshop page.
 
-# Acknowledgments
+# Acknowledgements
 
 Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
