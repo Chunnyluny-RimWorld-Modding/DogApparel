@@ -1,6 +1,7 @@
 # Dogutility
-
 [![Built for RimWorld](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainArbitrary%2FManyMedicines%2Fmain%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&style=for-the-badge&label=Built%20for%20RimWorld)](https://rimworldgame.com/)
+&emsp;
+![GitHub issues by-label](https://img.shields.io/github/issues/chunnyluny/Dogutility/issue%2Fbug?style=for-the-badge&logo=github)
 &emsp;
 ![GitHub](https://img.shields.io/github/license/Chunnyluny/Dogutility?style=for-the-badge&logo=GitHub)
 &emsp; 
@@ -8,18 +9,20 @@
 
 <a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-Dogutility is a [mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgments) below for important information.
+Dogutility is a [mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information. Started around June 2023 -august 2023 currently working on textures and code. Please be aware I'm still learning how to use GitHub and writing code in general. I'm excited for every progress I'm making. 
 
 The Dog Utility mod enhances gameplay in RimWorld by introducing dogs as supportive companions to disabled or impaired pawns. These dogs are trained to assist their owners in various tasks, including danger detection, item retrieval, and solving mysteries. Players will need to research and equip their dogs with specialized gear and equipment to utilize these features effectively.
 
 ---
 
-Feature: Support Dogs
+**Feature: Support Dogs**
 
 - Dogs provide assistance to disabled, wheelchair-bound, deaf, or blind pawns.
 - Support dogs require training through the "Support Dog Training" research.
 
-**Required mods: animal gear and animal equipment to work.**
+**Required mods:** 
+- [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907)
+- [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984)
 
 Animal gear and animal equipment mod are required to implement their framework so dogs can perform specific tasks.
 Concept idea; danger detecting dog suit/vest: inspiration from Rimmunation clothing which adds bombsuits for humanoid pawns.
@@ -27,14 +30,14 @@ The belts/gear will be worn on the utility slot.
 My idea was to implement the bomb/EMP detector into a dog harness which will trigger an alert if there is danger nearby, to warn others. Implement proximity-based danger detection for dogs wearing the bomb suit. Dogs trigger alerts to warn nearby pawns of potential dangers.
 The idea for a Danger-detecting Dog suit/vest was born.
 
-Features for dog equipment:
+**Features for dog equipment:**
 This mod will add:
 
 - Harnesses, bulletproof vests, and bomb suits that can be equipped on dogs.
-- Bombsuit for dogs (inspired by Rimmunation clothes2 by Chickenplucker)
+- Bombsuit for dogs inspired on [[RH2] Rimmu-Nation² - Clothing](https://steamcommunity.com/workshop/filedetails/?id=2563506048)
 
-Features including: animal foraging and drug detecting.
-
+**Features including:**
+- animal foraging and drug detecting.
 - Implement a flagging system to identify specific items for dogs to forage or detect.
 - Dogs can locate truffles, drugs, and illegal substances like smokeleaf, luciferium or go-juice, which than will be gathered for security reasons.
 - Dogs can wear danger-detecting suits that detect IEDs in enemy bases.
@@ -47,7 +50,8 @@ This will be for roleplaying:
 This feature will add a cosmetic detective coat with matching detective hat for dogs.
 This feature is for roleplaying reasons and has no additional function rather than equiping your dog with a detective outfit.
 
-Research: Add "Support Dog Training" as a new research project.
+**Research:**
+Add "Support Dog Training" as a new research project.
 New Jobtoil: Task assignment for pawns: Enable pawns to assign tasks to their support dogs, such as danger detection or item retrieval.
 
 ---
@@ -62,17 +66,21 @@ Yes. No problem. But make sure these apparel won't be used or availabe in stockp
 
 I wouldn't advise it, as a general rule. If you really want to, start by backing up your saves, then get rid of all the mod-added items in your game and make sure none of your pawns/colony animals are wearing any apparel. No apparel is made at the tailor table etc. Make sure they are not stored in stockpiles, and pawns are not training animals, cancel any research related to this mod. Then you can try removing the mod. But I can't promise to help you if this breaks your save. That's what the backup is for.
 
-### CE?
+### Any requirements for this mod to work?
 
-No idea. I don't play with [Combat Extended](https://steamcommunity.com/workshop/filedetails/?id=2890901044). I'd love for somebody to try it out and tell me.
+Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907) this mod is intended to use the code to use the features where animals can wear apparel just like their human (pawn) human owners. Also recommended and required: [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984) if you are using an external mod manager tool like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) recommended and explained on my [Troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information is found on [About.xml](About/About.xml)
 
-### Can I use this with [some other mod]?
+#### Combat Extended compatible?
 
-Probably. It's extremely unlikely for there to be any conflict between Dogutility and any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/Dogutility/issues/new) about it.
+No idea. I don't play with [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended). I hope you are using the GitHub version of CE. If you are a CE user and want to use this mod, feel free to let me know if they are compatible.
+
+##### Can I use this mod with [any other mods]?
+
+Sure it will be possible. It's extremely unlikely for there to be any conflict between Dogutility and any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/Dogutility/issues/new) about it.
 
 #### Steam or GitHub?
 This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I don't own RimWorld on Steam I can't upload it to the RimWorld workshop page.
 
-# Acknowledgements
+# Acknowledgement
 
 Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
