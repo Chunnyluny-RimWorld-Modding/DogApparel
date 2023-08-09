@@ -6,6 +6,8 @@
 &emsp; 
 [![Discord](https://img.shields.io/discord/688796862639112277?style=for-the-badge&logo=discord)](https://discord.gg/NjbW9RTQkA)
 
+<a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 Dogutility is a [mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgments section](#acknowledgments) below for important information.
 
 The Dog Utility mod enhances gameplay in RimWorld by introducing dogs as supportive companions to disabled or impaired pawns. These dogs are trained to assist their owners in various tasks, including danger detection, item retrieval, and solving mysteries. Players will need to research and equip their dogs with specialized gear and equipment to utilize these features effectively.
