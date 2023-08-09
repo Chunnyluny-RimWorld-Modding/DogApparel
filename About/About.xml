@@ -14,6 +14,7 @@
 		<li>IED detecting Dog vest</li>
 		<li>Cosmetic detective coat with matching detective hat for dogs.</li>
 	</description>
+	<downloadUrl>https://github.com/Chunnyluny/Dogutility</downloadUrl>
 	<modDependencies>
 		<li>
 			<packageId>Dylan.AnimalGear</packageId>
