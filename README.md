@@ -7,7 +7,7 @@
 &emsp; 
 [![Discord](https://img.shields.io/discord/688796862639112277?style=for-the-badge&logo=discord)](https://discord.gg/NjbW9RTQkA)
 &emsp; 
-<a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img alt="Buy me a coffee" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-purple?logo=ko-fi&style=for-the-badge"/>
+<a href='https://ko-fi.com/I2I8ND4C0' target='_blank'><img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-purple?logo=ko-fi&style=for-the-badge"/>
 </a>
 
 ---
