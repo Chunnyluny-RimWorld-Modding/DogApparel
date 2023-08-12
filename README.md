@@ -1,4 +1,4 @@
-# Dogutility
+# DogApparel
 [![Built for RimWorld](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainArbitrary%2FManyMedicines%2Fmain%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&style=for-the-badge&label=Built%20for%20RimWorld)](https://rimworldgame.com/)
 &emsp;
 ![GitHub issues](https://img.shields.io/github/issues/chunnyluny/dogutility?style=for-the-badge&logo=github)
@@ -11,51 +11,53 @@
 </a>
 
 ---
+"Hey there, fellow RimWorld enthusiasts! I'm the creator behind the Dog Apparel mod!
 
-Dogutility is a [mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information. Started around June 2023 -august 2023 currently working on textures and code. Please be aware I'm still learning how to use GitHub and writing code in general. I'm excited for every progress I'm making. 
+Just a heads up, I'm still getting the hang of this GitHub and coding stuff. I'm really excited about the progress I'm achieving, when working on this mod and other projects.
 
-The Dog Utility mod enhances gameplay in RimWorld by introducing dogs as supportive companions to disabled or impaired pawns. These dogs are trained to assist their owners in various tasks, including danger detection, item retrieval, and solving mysteries. Players will need to research and equip their dogs with specialized gear and equipment to utilize these features effectively.
+Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information. 
+
+The Dog Apparel mod makes RimWorld even cooler by adding support dogs for pawns who could use some help. These dogs are trained to assist with things like spotting dangers, fetching stuff, and solving mysteries. An additional research option will be introduced under the "Advanced Trainability" category called "support dogs".
 
 ---
 
-**Feature: Support Dogs**
+**Support Dogs**
+- Boost gameplay with support dogs that assist disabled pawns.
+- Train them via the "Support Dog Training" research, forming close pawn-dog bonds. So they will follow their owners, to protect them.
 
-- Dogs provide assistance to disabled, wheelchair-bound, deaf, or blind pawns.
-- Support dogs require training through the "Support Dog Training" research.
+**Dog Detectives**
+- Dive into playful roleplay with Dog Detectives, like Scooby-Doo and sherlock style.
+- These furry pals can wear detective gear for a fun twist in your stories.
+- Add a matching outfit for pawns including detective coat and matching hat, and don't forget the magnifying glass.
+
+**Mystery-Solving:**
+- Implement animal footprints or pawprints as a clue for pawns to follow and solve mysteries. (optional)
+This feature is for roleplaying reasons and has no additional function rather than equiping your dog with a detective outfit.
+
+**K9 Military Dogs**
+- Basic dog gear like harnesses, vests, and bomb suits inspired by [[RH2] Rimmu-Nation² - Clothing](https://steamcommunity.com/workshop/filedetails/?id=2563506048)
+- Improve your military missions with K9 Military Dogs trained to spot bombs.
+- Equip them on your dogs and ensure security during military missions.
+
+**Research:**
+Add "Support Dog Training" as a new research project.
+New Jobtoil: Task assignment for pawns: Enable pawns to assign tasks to their support dogs, such as danger detection or item fetching.
 
 **Required mods:** 
 - [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907)
 - [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984)
 
-Animal gear and animal equipment mod are required to implement their framework so dogs can perform specific tasks.
-Concept idea; danger detecting dog suit/vest: inspiration from Rimmunation clothing which adds bombsuits for humanoid pawns.
-The belts/gear will be worn on the utility slot.
-My idea was to implement the bomb/EMP detector into a dog harness which will trigger an alert if there is danger nearby, to warn others. Implement proximity-based danger detection for dogs wearing the bomb suit. Dogs trigger alerts to warn nearby pawns of potential dangers.
-The idea for a Danger-detecting Dog suit/vest was born.
+---
 
-**Features for dog equipment:**
-This mod will add:
+Canine Safety Alert System
 
-- Harnesses, bulletproof vests, and bomb suits that can be equipped on dogs.
-- Bombsuit for dogs inspired on [[RH2] Rimmu-Nation² - Clothing](https://steamcommunity.com/workshop/filedetails/?id=2563506048)
+Inspired by the protective principles of Rimmunation clothing, I present an innovative concept: a specialized dog gear designed to contribute significantly to the colony's safety. This idea revolves around harnessing dogs as active safety allies within the colony.
 
-**Features including:**
-- animal foraging and drug detecting.
-- Implement a flagging system to identify specific items for dogs to forage or detect.
-- Dogs can locate truffles, drugs, and illegal substances like smokeleaf, luciferium or go-juice, which than will be gathered for security reasons.
-- Dogs can wear danger-detecting suits that detect IEDs in enemy bases.
+Imagine a practical vest or harness, expertly crafted for canine comfort. Drawing from the ingenuity of bombsuits, this adaptation focuses on improving safety standards. Incorporated within the gear is a sensor calibrated to detect potential hazards like explosives and EMPs. Ahead of triggering, the sensor initiates an alert, sounding a warning akin to the familiar sound of a household smoke detector.
 
-**Mystery-Solving:**
+Imagine a scenario where a dog, wears this danger detecting gear, roams the colony grounds. As the dog comes within proximity of danger, the sensor is activated, producing a distinct sound that echoes the early stages of a potential threat. This clever idea makes the colony more alert and strategic when facing enemy raids.
 
-- Implement animal footprints or pawprints as a clue for pawns to follow and solve mysteries.
-Introduce a cosmetic detective coat and detective hat for dogs.
-This will be for roleplaying:
-This feature will add a cosmetic detective coat with matching detective hat for dogs.
-This feature is for roleplaying reasons and has no additional function rather than equiping your dog with a detective outfit.
-
-**Research:**
-Add "Support Dog Training" as a new research project.
-New Jobtoil: Task assignment for pawns: Enable pawns to assign tasks to their support dogs, such as danger detection or item retrieval.
+This security system will be called "Canine Safety Alert System." the advanced dogs are trained to encounter danger without getting hurt. The colony gains a trusted partner in maintaining safety.
 
 ---
 
@@ -71,17 +73,17 @@ I wouldn't advise it, as a general rule. If you really want to, start by backing
 
 ### Any requirements for this mod to work?
 
-Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907) this mod is intended to use the code to use the features where animals can wear apparel just like their human (pawn) human owners. Also recommended and required: [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984) if you are using an external mod manager tool like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) recommended and explained on my [Troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information is found on [About.xml](About/About.xml)
+Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907) this mod is created to use the animal gear framework. Also recommended and required: [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984) if you are using an external mod manager tool like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) they are recommended and will help loading the mod in the correct order. These mod managers are more explained on my [Troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information about this mod is found on [About.xml](DogApparel/About/About.xml)
 
-#### Combat Extended compatible?
+### Combat Extended compatible?
 
-No idea. I don't play with [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended). I hope you are using the GitHub version of CE. If you are a CE user and want to use this mod, feel free to let me know if they are compatible.
+Why wouldn't it be? I avoid playing with Combat Extended because patching is somewhat complicated, [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended). I hope you are using the GitHub version of CE. If you are a CE user and you can provide any information about their compatiblity, feel free to let me know about your experience with using both mods.
 
-##### Can I use this mod with [any other mods]?
+### Can I use this mod with [any other mods]?
 
-Sure it will be possible. It's extremely unlikely for there to be any conflict between Dogutility and any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/Dogutility/issues/new) about it.
+Sure it will be possible. It's extremely unlikely for there to be any conflict between DogApparel any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/Dogutility/issues/new)
 
-#### Steam or GitHub?
+### Steam or GitHub?
 This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I don't own RimWorld on Steam I can't upload it to the RimWorld workshop page.
 
 # Acknowledgement
