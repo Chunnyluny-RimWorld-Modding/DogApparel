@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Dog Utility</name>
+	<name>Dog Apparel</name>
 	<author>
 		<li>Chunnyluny</li>
 	</author>
-	<packageId>chunnyluny.DogUtility</packageId>
+	<packageId>chunnyluny.DogApparel</packageId>
 	<description>Are you missing protective apparel for your four legged companions? Don't hesitate longer! Have your fur babies protected from warcrimes. This mod will add textures for bulletproof dog vest which are cheaper and lighter in weight than animal flak amour. Equipment that will be added by this mod is listed below:		
 		<li>Dog Basic Harness</li>
 		<li>Dog bulletproof vest</li>
@@ -13,7 +13,7 @@
 		<li>IED detecting Dog vest</li>
 		<li>Cosmetic detective coat with matching detective hat for dogs.</li>
 	</description>
-	<Url>https://github.com/Chunnyluny/Dogutility</Url>
+	<Url>https://github.com/Chunnyluny/DogApparel</Url>
 	<modDependencies>
 		<li>
 			<packageId>Dylan.AnimalGear</packageId>
