@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <loadFolders>
-	<v1.4>
-		<li>Patches/li>
-		<li IfModActive="vanillaexpanded.vaed">Mods/vanillaexpanded.vaed</li>
-	</v1.4>
+    <v1.4>
+        <li>Patches</li>
+        <li>IfModActive="vanillaexpanded.vaed">Mods/vanillaexpanded.vaed</li>
+    </v1.4>
 </loadFolders>
