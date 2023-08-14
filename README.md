@@ -65,7 +65,7 @@ This security system will be called "Canine Safety Alert System." the advanced d
 
 ### Can I add this mod to a save game?
 
-Yes. No problem. But make sure these apparel won't be used or availabe in stockpile. You need to enabel them first; be aware any mod that adds new items, such as food, drugs, and clothing, is automatically disabled in stockpiles. Colonists will ignore them, and they will not haul or wear the item. When you just added this mod, the items are not automatically included in the stockpiles or recipes. This is not considered a bug or an error. You just need to tick them on for recipes or stockpiles etc. after you enable them, they will show up.
+Yes. No problem. You need to enable the items first so the pawns can interact with them; be aware any mod that adds new items, such as food, drugs, and clothing, is automatically disabled in stockpiles. Colonists will ignore them, and they will not haul or wear the item. When you just added this mod, the items are not automatically included in the stockpiles or recipes. This is not considered a bug or an error. You just need to tick them on for recipes or stockpiles etc. After you enable them, they will show up.
 
 ### Can I remove this mod from a save game?
 
@@ -77,11 +77,11 @@ Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=
 
 ### Combat Extended compatible?
 
-Why wouldn't it be? I avoid playing with Combat Extended because patching is somewhat complicated, [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended). I hope you are using the GitHub version of CE. If you are a CE user and you can provide any information about their compatiblity, feel free to let me know about your experience with using both mods.
+Why wouldn't it be? I don't want to use [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended) because it doesn't work well with most of the mods I like. If you use Combat Extended and have info on mod compatibility, share your experience using both mods.
 
 ### Can I use this mod with [any other mods]?
 
-Sure it will be possible. It's extremely unlikely for there to be any conflict between DogApparel any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/Dogutility/issues/new)
+Sure it will be possible. It's extremely unlikely for there to be any conflict between DogApparel any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/DogApparel/issues/new)
 
 ### Steam or GitHub?
 This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I don't own RimWorld on Steam I can't upload it to the RimWorld workshop page.
