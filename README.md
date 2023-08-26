@@ -20,18 +20,34 @@
   <img alt="Buy me a coffee" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-magenta?logo=ko-fi&style=for-the-badge" />
 </a>
 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="linha colorida" width="100%" height="70%">
+</div>
+
+<br>
+
+Read this `Readme` in another language:
+
+<kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](https://github.com/Chunnyluny/DogApparel/blob/Master/README.md)</kbd> <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://github.com/Chunnyluny/DogApparel/blob/Master/README-pt-br.md)</kbd><kbd>[<img title="葡萄牙语" alt="葡萄牙语" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](https://github.com/Chunnyluny/DogApparel/blob/Master/README-cn.md)</kbd>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+
 ---
 
 ## Description
 
-*Hey there, fellow RimWorld enthusiasts! I'm the creator behind the Dog Apparel mod!*
+_Hey there, fellow RimWorld enthusiasts! I'm the creator behind the Dog Apparel mod!_
 
-*Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information.*
+_Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information._
 
 This mod should make life on the Rim more fun by adding support dogs for pawns who need assistance. Support dogs are trained to help disabled pawns. My idea was to let dogs play a big role in the story. These dogs are trained to assist with things like spotting dangers, fetching stuff, and solving mysteries. My idea was based on Scooby Doo and Sherlock Holmes.
 An additional research option will be introduced under the "Advanced Trainability" category called "support dogs".
 
-*"Just a heads up, I'm still learning to use GitHub and coding stuff. I hope you can understand and but at the same time can enjoy this mod as I enjoy making it for you".*
+_"Just a heads up, I'm still learning to use GitHub and coding stuff. I hope you can understand and but at the same time can enjoy this mod as I enjoy making it for you"._
 
 Support Dogs
 
@@ -47,7 +63,7 @@ Dog Detectives
 Mystery-Solving
 
 - Implement animal footprints or pawprints as a clue for pawns to follow and solve mysteries. (optional)
-This feature is for roleplaying reasons and has no additional function rather than equiping your dog with a detective outfit.
+  This feature is for roleplaying reasons and has no additional function rather than equiping your dog with a detective outfit.
 
 K9 Military Dogs
 
@@ -85,19 +101,21 @@ I wouldn't advise it, as a general rule. If you really want to, start by backing
 
 Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907) this mod is created to use the animal gear framework.
 
-It is recommended to use a mod manager like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) to install this mod. They are recommended and will help loading the mod in the correct order. These mod managers are more explained in details on my [Troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information about this mod is found on [About.xml](DogApparel/About/About.xml)
+It is recommended to use a mod manager like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) to install this mod. They are recommended and will help load the mod in the correct order. These mod managers are explained in more detail in my [Troubleshooting Guide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information about this mod is found in [About.xml](DogApparel/About/About.xml)
+
 
 ### Combat Extended compatible?
 
-Why wouldn't it be? I don't want to use [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended) because it doesn't work well with most of the mods I like. If you use Combat Extended and have info on mod compatibility, share your experience using both mods.
+Why wouldn't it be? I don't want to use [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended) because it doesn't work well with most of the mods I like. If you use Combat Extended and have info on mod compatibility, feel free to share your experience using both mods.
 
 ### Can I use this mod with [any other mods]?
 
-Sure it will be possible. It's extremely unlikely for there to be any conflict between DogApparel any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/DogApparel/issues/new)
+Sure, it will be possible. It's extremely unlikely for there to be any conflict between DogApparel and any other mod. It is supposed to work with the animal gear framework, which is required for this mod to function. If you do run into any incompatibility, though, feel free to [open an issue](https://github.com/Chunnyluny/DogApparel/issues/new)
 
 ### Steam or GitHub?
 
-This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I bought RimWorld on Epic I can't upload the mod to the RimWorld Steamworkshop page.  
+This mod is still in development and will be pre-released on GitHub before it is available on the Steam Workshop. Since I don't own RimWorld on Steam, I can't upload it to the RimWorld workshop page.
+
 
 ## Acknowledgement
 
