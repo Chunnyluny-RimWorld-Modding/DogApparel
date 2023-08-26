@@ -20,18 +20,34 @@
   <img alt="Buy me a coffee" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-magenta?logo=ko-fi&style=for-the-badge" />
 </a>
 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="linha colorida" width="100%" height="70%">
+</div>
+
+<br>
+
+Read this `Readme` in another language:
+
+<kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](https://github.com/Chunnyluny/DogApparel/blob/Master/README.md)</kbd> <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://github.com/Chunnyluny/DogApparel/blob/Master/README-pt-br.md)</kbd><kbd>[<img title="葡萄牙语" alt="葡萄牙语" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" width="22">](https://github.com/Chunnyluny/DogApparel/blob/Master/README-cn.md)</kbd>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+
 ---
 
 ## Description
 
-*Hey there, fellow RimWorld enthusiasts! I'm the creator behind the Dog Apparel mod!*
+_Hey there, fellow RimWorld enthusiasts! I'm the creator behind the Dog Apparel mod!_
 
-*Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information.*
+_Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information._
 
 This mod should make life on the Rim more fun by adding support dogs for pawns who need assistance. Support dogs are trained to help disabled pawns. My idea was to let dogs play a big role in the story. These dogs are trained to assist with things like spotting dangers, fetching stuff, and solving mysteries. My idea was based on Scooby Doo and Sherlock Holmes.
 An additional research option will be introduced under the "Advanced Trainability" category called "support dogs".
 
-*"Just a heads up, I'm still learning to use GitHub and coding stuff. I hope you can understand and but at the same time can enjoy this mod as I enjoy making it for you".*
+_"Just a heads up, I'm still learning to use GitHub and coding stuff. I hope you can understand and but at the same time can enjoy this mod as I enjoy making it for you"._
 
 Support Dogs
 
@@ -47,7 +63,7 @@ Dog Detectives
 Mystery-Solving
 
 - Implement animal footprints or pawprints as a clue for pawns to follow and solve mysteries. (optional)
-This feature is for roleplaying reasons and has no additional function rather than equiping your dog with a detective outfit.
+  This feature is for roleplaying reasons and has no additional function rather than equiping your dog with a detective outfit.
 
 K9 Military Dogs
 
