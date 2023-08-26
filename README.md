@@ -85,7 +85,7 @@ I wouldn't advise it, as a general rule. If you really want to, start by backing
 
 Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907) this mod is created to use the animal gear framework.
 
-It is recommmended to use a mod manager like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) to install this mod. They are recommended and will help loading the mod in the correct order. These mod managers are more explained in details on my [Troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information about this mod is found on [About.xml](DogApparel/About/About.xml)
+It is recommended to use a mod manager like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) to install this mod. They are recommended and will help loading the mod in the correct order. These mod managers are more explained in details on my [Troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information about this mod is found on [About.xml](DogApparel/About/About.xml)
 
 ### Combat Extended compatible?
 
