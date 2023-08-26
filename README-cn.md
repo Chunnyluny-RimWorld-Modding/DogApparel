@@ -101,7 +101,7 @@ K9 军犬
 
 ### 这个模组工作需要什么要求？
 
-是的，您需要[动物装备](https://steamcommunity.com/workshop/filedetails/?id=1541438907)，这个模组是为了使用动物装备的框架而创建的。同时推荐和要求：[动物设备](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984)。
+是的，您需要[动物装备](https://steamcommunity.com/workshop/filedetails/?id=1541438907)，这个模组是为了使用动物装备的框架而创建的。
 
 推荐使用模组管理器，如[RimPy](https://github.com/rimpy-custom/RimPy/releases)或[RimSort](https://github.com/RimSort/RimSort)来安装这个模组。它们被推荐使用，可以帮助正确加载模组。这些模组管理器在我的[故障排除指南](https://github.com/Chunnyluny/troubleshootingguide/README.md)中有更详细的解释。有关这个模组的更多信息，请参阅[About.xml](DogApparel/About/About.xml)。
 
@@ -115,9 +115,7 @@ K9 军犬
 
 ### Steam 还是 GitHub？
 
-这个模组仍在开发中，在发布到 Steam 创意工坊之前，将会在 Github 上进行预发布，因为我没有在 Steam 上拥有 RimWorld，所以不能将其上传到 RimWorld 创意工坊页面
-
-。
+这个模组仍在开发中，在发布到 Steam 创意工坊之前，将会在 Github 上进行预发布，因为我没有在 Steam 上拥有 RimWorld，所以不能将其上传到 RimWorld 创意工坊页面。
 
 ## 致谢
 

@@ -101,7 +101,7 @@ Eu não aconselharia, em geral. Se você realmente quiser fazer isso, comece faz
 
 ### Alguma exigência para que este mod funcione?
 
-Sim, você precisa do [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907), este mod foi criado para usar o framework de equipamentos para animais. Também recomendado e necessário: [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984).
+Sim, você precisa do [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907), este mod foi criado para usar o framework de equipamentos para animais.
 
 É recomendado usar um gerenciador de mods como o [RimPy](https://github.com/rimpy-custom/RimPy/releases) ou [RimSort](https://github.com/RimSort/RimSort) para instalar este mod. Eles são recomendados e ajudarão a carregar o mod na ordem correta. Esses gerenciadores de mods são mais explicados em detalhes no meu [Guia de Solução de Problemas](https://github.com/Chunnyluny/troubleshootingguide/README.md). Mais informações sobre este mod podem ser encontradas em [About.xml](DogApparel/About/About.xml).
 

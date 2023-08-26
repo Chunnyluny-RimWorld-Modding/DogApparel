@@ -99,21 +99,21 @@ I wouldn't advise it, as a general rule. If you really want to, start by backing
 
 ### Any requirements for this mod to work?
 
-Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907) this mod is created to use the animal gear framework. Also recommended and required: [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984).
+Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907) this mod is created to use the animal gear framework.
 
-It is recommmended to use a mod manager like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) to install this mod. They are recommended and will help loading the mod in the correct order. These mod managers are more explained in details on my [Troubleshootingguide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information about this mod is found on [About.xml](DogApparel/About/About.xml)
+It is recommended to use a mod manager like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort) to install this mod. They are recommended and will help load the mod in the correct order. These mod managers are explained in more detail in my [Troubleshooting Guide](https://github.com/Chunnyluny/troubleshootingguide/README.md). More information about this mod is found in [About.xml](DogApparel/About/About.xml)
 
 ### Combat Extended compatible?
 
-Why wouldn't it be? I don't want to use [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended) because it doesn't work well with most of the mods I like. If you use Combat Extended and have info on mod compatibility, share your experience using both mods.
+Why wouldn't it be? I don't want to use [Combat Extended](https://github.com/CombatExtended-Continued/CombatExtended) because it doesn't work well with most of the mods I like. If you use Combat Extended and have info on mod compatibility, feel free to share your experience using both mods.
 
 ### Can I use this mod with [any other mods]?
 
-Sure it will be possible. It's extremely unlikely for there to be any conflict between DogApparel any other mod. It is supposed to work with animalgear and animal equipment mod, they are required to get this mod work. If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/DogApparel/issues/new)
+Sure, it will be possible. It's extremely unlikely for there to be any conflict between DogApparel and any other mod. It is supposed to work with the animal gear framework, which is required for this mod to function. If you do run into any incompatibility, though, feel free to [open an issue](https://github.com/Chunnyluny/DogApparel/issues/new)
 
 ### Steam or GitHub?
 
-This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I don't own RimWorld on Steam I can't upload it to the RimWorld workshop page.
+This mod is still in development and will be pre-released on GitHub before it is available on the Steam Workshop. Since I don't own RimWorld on Steam, I can't upload it to the RimWorld workshop page.
 
 ## Acknowledgement
 
