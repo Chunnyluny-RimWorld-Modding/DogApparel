@@ -86,7 +86,7 @@ I wouldn't advise it, as a general rule. If you really want to, start by backing
 Yes, you need [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907) this mod is created to use the animal gear framework.
 
 You should also use a mod manager like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort)
-They make sure you load the mod in the right place. You can find more information about these mod managers in my [Troubleshooting Guide](https://github.com/Chunnyluny/troubleshootingguide/README.md). 
+They make sure you load the mod in the right place. You can find more information about these mod managers in my [Troubleshooting Guide](https://github.com/Chunnyluny/troubleshootingguide/README.md).
 
 ### Combat Extended compatible?
 
@@ -98,7 +98,7 @@ Sure it will be possible. It's extremely unlikely for there to be any conflict b
 
 ### Steam or GitHub?
 
-This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I bought RimWorld on Epic I can't upload the mod to the RimWorld Steamworkshop page.  
+This mod is still in development and will be pre-released on Github before it is available on the SteamWorkshop, since I bought RimWorld on Epic I can't upload the mod to the RimWorld Steamworkshop page.
 
 ## Acknowledgement
 
