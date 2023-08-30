@@ -72,7 +72,7 @@ This security system will be called "Canine Safety Alert System." the advanced d
 
 ## FAQ
 
-### Can I add this mod to a ungoing save game?
+### Can I add this mod to an ongoing save game?
 
 Yes but you need to enable the items first, so the pawns can interact with them; be aware any mod that adds new items, such as food, drugs, and clothing, is automatically disabled in stockpiles. Colonists will ignore them, and they will not haul or wear the item. When you just added this mod, the items are not automatically included in the stockpiles or recipes. This is not considered a bug or an error. You just need to tick them on for recipes or stockpiles etc. After you enable them, they will show up.
 
