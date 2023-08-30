@@ -1,24 +1,31 @@
 <h1 align="center">DogApparel, a mod that makes dogs more useful on the Rim!</h1>
 
+<p align="left">
 <a href="https://rimworldgame.com">
   <img alt="Built for RimWorld" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FChunnyluny%2FDogApparel%2Fmaster%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&label=Built%20for%20RimWorld&style=for-the-badge&color=magenta" />
 </a>
 &emsp;
 <a href="https://github.com/Chunnyluny/DogApparel/blob/master/LICENSE">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/Chunnyluny/DogApparel?style=for-the-badge&logo=Github&color=magenta" />
+  <img alt="GitHub License" src="https://img.shields.io/github/license/Chunnyluny/DogApparel?style=for-the-badge&logo=github&color=magenta" />
 </a>
 &emsp;
 <a href="https://github.com/Chunnyluny/DogApparel/issues">
-  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/chunnyluny/DogApparel?style=for-the-badge&logo=github&color=magenta">
+  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Chunnyluny/DogApparel?style=for-the-badge&logo=github&color=magenta" />
 </a>
 &emsp;
-<a href="https://discord.gg/Njbw9RTQkA">
-  <img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
+ <a href="https://discord.gg/NjbW9RTQkA" />
+   <img alt="Join my server" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
 </a>
 &emsp;
-<a href="https://ko-fi.com/T6T1NNFAL">
-  <img alt="Buy me a coffee" src="https://shields.io/badge/ko--fi-Buy_me_a_coffee-magenta?logo=ko-fi&style=for-the-badge" />
+ <a href="https://ko-fi.com/I2I8ND4C0">
+  <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?style=for-the-badge&logo=ko-fi" />
 </a>
+<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
+&emsp;
+   <img alt="gimp" src="https://img.shields.io/badge/gimp-magenta?style=for-the-badge&logo=gimp" />
+&emsp;
+  <img alt="Krita" src="https://img.shields.io/badge/Krita-magenta?style=for-the-badge&logo=krita" />
+</div>
 
 ---
 
@@ -28,39 +35,37 @@ _Hey there, fellow RimWorld enthusiasts! I'm the creator behind the Dog Apparel 
 
 _Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information._
 
-This mod should make life on the Rim more fun by adding support dogs for pawns who need assistance. Support dogs are trained to help disabled pawns. My idea was to let dogs play a big role in the story. These dogs are trained to assist with things like spotting dangers, fetching stuff, and solving mysteries. My idea was inspired by Scooby-Doo and Sherlock Holmes for the detective theme.
-An additional research option will be introduced under the "Advanced Trainability" category called "support dogs".
+This mod should make life on the Rim more fun by adding support dogs for pawns who need assistance. Support dogs are trained to help disabled pawns. My idea was to let dogs play a big role in the story. These dogs are trained to assist with things like spotting dangers, fetching stuff, and solving mysteries. My idea was inspired by Scooby-Doo and Sherlock Holmes for the detective theme. An additional research option will be introduced under the "Advanced Trainability" category called "support dogs".
 
-_“Just a heads-up, I'm still learning to use GitHub and coding stuff. I hope you can enjoy this mod as I enjoy making it for you”._
+_“Just a heads-up, I'm still learning to use GitHub and coding stuff. I hope you can enjoy this mod, as I enjoy making it for you”._
 
-Support Dogs
+### Required mod dependency: [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907)
+
+### Support Dogs
 
 - Boost gameplay with support dogs that assist disabled pawns.
-- Train them via the "Support Dog Training" research, to better follow their owners, to protect them.
+- Train them via the "Support Dog Training" research, to better follow their owners to protect them.
 
-Dog Detectives
+### Detectives Dogs, "Dogtectives"
 
-- Dive into playful roleplay with Dog Detectives, like Scooby-Doo and Sherlock style.
-- These furry pals can wear detective gear for a fun twist in your stories.
+- Dive into playful roleplay with Detective dogs, similar to Scooby-Doo and/or Sherlock Holmes style.
 - Twinning is winning, match your dog with their owner, by equipping them both with a detective outfit
-- The outfit includes a detective coat with matching hat, you can also equip your pawn with a magnifying glass.
-- This feature is for roleplaying reasons and has no add
-equipping your dog with a detective outfit.
+- The outfit includes a detective coat with matching hat and makes it complet with a magnifying glass, that will improves sight on pawns.
+- The detective apparel is used for roleplaying and has no other feature/functionailty.
 - Use animal footprints or pawprints as detective props and decor
 
-K9 Military Dogs
+### K9 Dogs Military Apparel 
 
 - Apparel like basic harness, vests, and bomb suits inspired by [[RH2] Rimmu-Nation² - Clothing](https://steamcommunity.com/workshop/filedetails/?id=2563506048)
 - Improve your military missions with K9 Military Dogs trained to spot bombs.
-- Equip these protective apparel on your dogs and ensure security during military missions.
+- Equip this protective apparel on your dogs and ensure security during military missions.
 
-Research
+### Research
+- Add "Support Dog Training" as a new research project. This research allows pawns, to assign tasks to their support dogs such as danger detection or item retrieving.
 
-Add "Support Dog Training" as a new research project. This research will allow pawns to assign tasks to their support dogs, such as danger detection or item retrieving.
+---
 
-Required mod dependency: [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907)
-
-## Canine Safety Alert System
+## Lore: Canine Safety Alert System
 
 Inspired by the protective principles of Rimmunation clothing, I present an innovative concept: a specialized dog gear designed to contribute significantly to the colony's safety. This idea revolves around harnessing dogs as active safety allies within the colony.
 
@@ -92,11 +97,20 @@ If you use Combat Extended in your modlist and have more info about regarding th
 
 ### Can I use this mod with any other mod(s)?
 
-You can try out for yourself, I have included textures, if you are using Vanilla Animals Expanded. I have checked before if there is any mod existing on the workshop that would would add the same items/features as my mod. I have not found anything similar, so I assume it is quite rare to get any mod conflict. ```Place the 'Animal Gear' mod before this mod in the load order for proper functionality.``` If you do run into an incompatibility of any kind, though, feel free to [open an issue](https://github.com/Chunnyluny/DogApparel/issues/new)
+I added textures for 11 Vanilla Animals Expanded dogs. I have checked before if there is any mod existing on the workshop that would would add the same items/features as my mod. But I have not found anything similar, so I believe it's quite rare to get any mod conflict. ```Place the 'Animal Gear' mod before this mod in the load order for proper functionality.``` You can provide me with incompatibility reports, by opening [an issue](https://github.com/Chunnyluny/DogApparel/issues/new).
 
 ### Steam or GitHub and when available for release?
 
-This mod is still in development and will be released on Github when it is almost content ready. Since this mod is a collab. it will be expanded upon. Because this is my first ever RimWorld mod, I appreciate any feedback or bugreports, you can place them in the [Issues tab](https://github.com/Chunnyluny/DogApparel/issues/new). I will prefer updating this mod on GitHub, since it is easier to implement new features and bugfixes through GitHub. When any Alpha version is ready to test out, feel free to star this repository to keep up-to-date and provide me with any feedback on functionality of this mod.
+This mod is still in development and will be released on Github whenever I find it feature finished. Since this mod is a collab it will be expanded upon. Because this is my first ever RimWorld mod, I appreciate any feedback or bugreports, so I can try to improve this mod.
+I will prefer updating this mod on GitHub, since it is easier to implement new features and bugfixes through GitHub. When any Alpha version is ready to test out, feel free to star this repository to keep up-to-date and provide me with any feedback on functionality of this mod.
+
+### Other questions, feedback or bugreports
+
+- If you have any ❓🤔 questions that are not listed in the FAQ, you can start a [new discussion](https://github.com/Chunnyluny/DogApparel/discussions)
+- If you have a small question, please give them the "question" 🏷️label and submit [a new issue](https://github.com/Chunnyluny/DogApparel/issues/new)
+- If you have any 🪲 bugreports, please give them "bug/error" 🏷️label and provide a [hugsliblog](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
+- If you are interested in my discord community, you can join my Discordserver; Discotrio, see the button at the 🔝 (top)
+- Stay Chuned, ⭐ this Repo to keep up-to-date on any feature updates or any other progress!!
 
 ## Acknowledgement
 
