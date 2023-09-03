@@ -4,7 +4,6 @@ on:
     branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
-  workflow_dispatch:
   schedule:
     - cron: "0 */2 * * *"
 
@@ -19,20 +18,16 @@ jobs:
       actions: read # only required for a private repository by github/codeql-action/upload-sarif to get the Action run status
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up JDK 11
-        uses: actions/setup-java@v3
-        with:
-          java-version: '11'
-          distribution: 'temurin'
-      - name: Run PMD
-        id: pmd
-        uses: pmd/pmd-github-action@967a81f8b657c87f7c3e96b62301cb1a48efef29
-        with:
-          rulesets: 'rulesets/java/quickstart.xml'
-          sourcePath: 'src/main/java'
-          analyzeModifiedFilesOnly: false
-      - name: Upload SARIF file
-        uses: github/codeql-action/upload-sarif@v2
-        with:
-          sarif_file: pmd-report.sarif
+    - uses: actions/checkout@v3
+    - uses: actions/setup-java@v3
+      with:
+        distribution: 'temurin'
+        java-version: '11'
+    - uses: pmd/pmd-github-action@v1
+      with:
+       rulesets: 'ruleset.xml'
+       analyzeModifiedFilesOnly: false
+    - name: Upload SARIF file
+      uses: github/codeql-action/upload-sarif@v1
+      with:
+       sarif_file: pmd-report.sarif
