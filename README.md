@@ -1,6 +1,5 @@
 <h1 align="center">DogApparel, a mod that makes dogs more useful on the Rim!</h1>
 
-<p align="left">
 <a href="https://rimworldgame.com">
   <img alt="Built for RimWorld" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FChunnyluny%2FDogApparel%2Fmaster%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&label=Built%20for%20RimWorld&style=for-the-badge&color=magenta" />
 </a>
@@ -13,19 +12,19 @@
   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Chunnyluny/DogApparel?style=for-the-badge&logo=github&color=magenta" />
 </a>
 &emsp;
- <a href="https://discord.gg/NjbW9RTQkA" />
-   <img alt="Join my server" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
+<a href="https://discord.gg/NjbW9RTQkA">
+  <img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
 </a>
 &emsp;
- <a href="https://ko-fi.com/I2I8ND4C0">
+<a href="https://ko-fi.com/I2I8ND4C0">
   <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?style=for-the-badge&logo=ko-fi" />
 </a>
-<div align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
+<p align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
 &emsp;
-   <img alt="gimp" src="https://img.shields.io/badge/gimp-magenta?style=for-the-badge&logo=gimp" />
+  <img alt="gimp" src="https://img.shields.io/badge/gimp-magenta?style=for-the-badge&logo=gimp" />
 &emsp;
   <img alt="Krita" src="https://img.shields.io/badge/Krita-magenta?style=for-the-badge&logo=krita" />
-</div>
+</p>
 
 ---
 
@@ -109,7 +108,7 @@ I will prefer updating this mod on GitHub, since it is easier to implement new f
 - If you have any ❓🤔 questions that are not listed in the FAQ, you can start a [new discussion](https://github.com/Chunnyluny/DogApparel/discussions)
 - If you have a small question, please give them the "question" 🏷️label and submit [a new issue](https://github.com/Chunnyluny/DogApparel/issues/new)
 - If you have any 🪲 bugreports, please give them "bug/error" 🏷️label and provide a [hugsliblog](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
-- If you are interested in my discord community, you can join my Discordserver; Discotrio, see the button at the 🔝 (top)
+- If you are interested in my discord community, you can join my Discordserver; Discotrio see #top
 - Stay Chuned, ⭐ this Repo to keep up-to-date on any feature updates or any other progress!!
 
 ## Acknowledgement
