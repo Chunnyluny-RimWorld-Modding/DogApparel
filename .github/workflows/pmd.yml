@@ -7,9 +7,6 @@ on:
   schedule:
     - cron: "0 */2 * * *"
 
-permissions:
-  contents: read
-
 jobs:
   pmd-code-scan:
     permissions:
