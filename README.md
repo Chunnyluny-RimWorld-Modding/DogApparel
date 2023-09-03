@@ -1,4 +1,4 @@
-<h1 align="center">DogApparel, a mod that makes dogs more useful on the Rim!</h1>
+# DogApparel, a mod that makes dogs more useful on the Rim!
 
 <a href="https://rimworldgame.com">
   <img alt="Built for RimWorld" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FChunnyluny%2FDogApparel%2Fmaster%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&label=Built%20for%20RimWorld&style=for-the-badge&color=magenta" />
@@ -108,8 +108,8 @@ I will prefer updating this mod on GitHub, since it is easier to implement new f
 - If you have any ❓🤔 questions that are not listed in the FAQ, you can start a [new discussion](https://github.com/Chunnyluny/DogApparel/discussions)
 - If you have a small question, please give them the "question" 🏷️label and submit [a new issue](https://github.com/Chunnyluny/DogApparel/issues/new)
 - If you have any 🪲 bugreports, please give them "bug/error" 🏷️label and provide a [hugsliblog](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
-- If you are interested in my discord community, you can join my Discordserver; Discotrio see #top
-- Stay Chuned, ⭐ this Repo to keep up-to-date on any feature updates or any other progress!!
+- If you are interested in my discord community, you can join my Discord server by clicking the Discord button at the top.
+- Stay Chuned, ⭐ this repo to stay up-to-date on any feature updates or get notified on any other progress!!
 
 ## Acknowledgement
 
