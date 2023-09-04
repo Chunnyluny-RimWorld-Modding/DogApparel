@@ -1,14 +1,11 @@
 name: pmd
 on:
   push:
-    branches: [ "master" ]
+    branches: master
   pull_request:
-    branches: [ "master" ]
+    branches: master
   schedule:
     - cron: "0 */2 * * *"
-
-permissions:
-  contents: read
 
 jobs:
   pmd-code-scan:
@@ -21,13 +18,13 @@ jobs:
     - uses: actions/checkout@v3
     - uses: actions/setup-java@v3
       with:
-        distribution: 'temurin'
-        java-version: '11'
+        distribution: "temurin"
+        java-version: "11"
     - uses: pmd/pmd-github-action@v1
       with:
-       rulesets: 'ruleset.xml'
-       analyzeModifiedFilesOnly: false
+        rulesets: ruleset.xml
+        analyzeModifiedFilesOnly: false
     - name: Upload SARIF file
-      uses: github/codeql-action/upload-sarif@v1
+    - uses: github/codeql-action/upload-sarif@v1
       with:
-       sarif_file: pmd-report.sarif
+        sarif_file: pmd-report.sarif
