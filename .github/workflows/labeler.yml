@@ -1,15 +1,25 @@
-name: Labeler
-on: [pull_request_target]
+name: "Pull Request Labeler"
+on:
+  pull_request_target:
+  workflow_dispatch:
+  schedule:
+  - cron: "0 1 * * 1"
 
 jobs:
-  label:
-
+  triage:
     runs-on: ubuntu-latest
     permissions:
       contents: read
       pull-requests: write
-
     steps:
-    - uses: actions/labeler@v4
+    - name: Checkout Code
+      uses: actions/checkout@v3
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        repository: "Chunnyluny/DogApparel"
+
+    - name: Label Pull Request
+      id: label-the-PR
+      uses: actions/labeler@v4
+      with:
+        repo-token: "${{ secrets.LABELER_ACTION }}"
+        pr-number: ""
