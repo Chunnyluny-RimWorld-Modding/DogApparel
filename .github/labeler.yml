@@ -1,47 +1,39 @@
 # Add 'repo' label to any root file changes, config file for workflow labeler
 repo:
-- 'DogApparel'
+- DogApparel
 
 # Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
 source:
-- any: ['src/**', '!src/docs/*']
+- any: [src/**, !src/docs/*]
 
 # Add 'frontend` label to any change to *.js files as long as the `main.js` hasn't changed
 frontend:
-- any: ['src/**/*.js']
-  all: ['!src/main.js']
-
-# Add the 'AnyChange' label to any changes within the entire repository if the 'dot' option is set to 'false'
-AnyChange:
-- '**'
-- '**/.*'
-- '**/.*/**'
-- '**/.*/**/.*'
+- any: [src/**/*.js]
+  all: [!src/main.js]
 
 # Add the 'AnyChange' label to any changes within the entire repository if the 'dot' option is set to 'true'
 AnyChange:
-- '**'
+- **
 
 configuration:
-  - '.github/*yml'
-  - '.gitignore'
-  - '.gitattributes'
-  - '.vscode/*'
-  - '.devcontainer/*'
-  - '.editorconfig'
-  - '.yamllint.yml'
+  - .github/*yml
+  - .gitignore
+  - .gitattributes
+  - .vscode/*
+  - .devcontainer/*
+  - .editorconfig
 documentation:
-  - '**/*.md'
-  - '**/*.rst'
-  - '**/*.txt'
+  - **/*.md
+  - **/*.rst
+  - **/*.txt
 github:
-  - any: ['.github/*', '!.github/workflows/']
+  - any: [.github/*, !.github/workflows/]
 github_actions:
-  - '.github/workflows/*'
+  - .github/workflows/*
 policy:
-  - '.github/ISSUE_TEMPLATE/*'
-  - '.github/PULL_TEMPLATE/*'
-  - 'LICENSE'
-  - 'SECURITY.md'
+  - .github/ISSUE_TEMPLATE/*
+  - .github/PULL_TEMPLATE/*
+  - LICENSE
+  - SECURITY.md
   vscode:
-  - '.vscode/*'
+  - .vscode/*
