@@ -6,7 +6,7 @@ permissions:
 
 on:
   pull_request:
-    types: [opened, reopened, synchronize]
+    types: opened, reopened, synchronize
 
 jobs:
   test:
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: ChatGPT CodeReviewer
-      uses: anc95/ChatGPT-CodeReview@v1.0.11
+      uses: anc95/ChatGPT-CodeReview@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
