@@ -19,7 +19,8 @@ jobs:
 
     - name: Label Pull Request
       id: label-the-PR
-      uses: actions/labeler@v4
+      uses: actions/labeler@v4.3.0
       with:
         repo-token: "${{ secrets.LABELER_ACTION }}"
-        pr-number: ""
+        dot: true
+        sync-labels: true
