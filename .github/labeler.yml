@@ -14,7 +14,7 @@ documentation:
 
 # Add the XML label to any XML files within the repository
 XML:
-  - ["**/*.xml"]
+  - [DogApparel/1.4/Defs/*.xml]
 
 configuration:
   - .github/*yml
@@ -26,8 +26,6 @@ configuration:
   - yamllint.yml
 images:
   - public/**/*.{ico,svg,jpg,jpeg,png,gif}
-markdownfile:
-  - DogApparel/README.md
 github:
   - any: [.github/*, .github/workflows/]
 github_actions:
@@ -39,5 +37,3 @@ policy:
   - SECURITY.md
 vscode:
   - .vscode/*
-settings:
-  - DogApparel/1.4/Defs/*.xml
