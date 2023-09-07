@@ -1,19 +1,20 @@
-# Add 'repo' label to any root file changes, config file for workflow labeler
-repo:
-- DogApparel
+# @format
+
+# Add 'repository' label to any root file changes, config file for workflow labeler
+repository:
+  - DogApparel
 
 # Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
 source:
-- any: [src/**, !src/docs/*]
+  - any: [src/**, src/docs/*]
 
-# Add 'frontend` label to any change to *.js files as long as the `main.js` hasn't changed
-frontend:
-- any: [src/**/*.js]
-  all: [!src/main.js]
+# Add 'documentation' label to any root file changes, README, CHANGELOG, etc
+documentation:
+  - any: [README.md, CHANGELOG.md, LICENSE, Wiki.md]
 
-# Add the 'AnyChange' label to any changes within the entire repository if the 'dot' option is set to 'true'
-AnyChange:
-- **
+# Add the XML label to any XML files within the repository
+XML:
+  - ["**/*.xml"]
 
 configuration:
   - .github/*yml
@@ -22,12 +23,13 @@ configuration:
   - .vscode/*
   - .devcontainer/*
   - .editorconfig
-documentation:
-  - **/*.md
-  - **/*.rst
-  - **/*.txt
+  - yamllint.yml
+images:
+  - public/**/*.{ico,svg,jpg,jpeg,png,gif}
+markdownfile:
+  - DogApparel/README.md
 github:
-  - any: [.github/*, !.github/workflows/]
+  - any: [.github/*, .github/workflows/]
 github_actions:
   - .github/workflows/*
 policy:
@@ -35,5 +37,7 @@ policy:
   - .github/PULL_TEMPLATE/*
   - LICENSE
   - SECURITY.md
-  vscode:
+vscode:
   - .vscode/*
+settings:
+  - DogApparel/1.4/Defs/*.xml
