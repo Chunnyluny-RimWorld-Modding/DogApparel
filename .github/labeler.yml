@@ -1,12 +1,6 @@
-# @format
-
-# Add 'repository' label to any root file changes, config file for workflow labeler
-repository:
-  - DogApparel
-
 # Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
 source:
-  - any: [src/**, src/docs/*]
+  - any: [src/DogApparel, src/docs/DogApparel]
 
 # Add 'documentation' label to any root file changes, README, CHANGELOG, etc
 documentation:
