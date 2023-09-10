@@ -1,0 +1,33 @@
+# Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
+source:
+  - any: [src/DogApparel, src/docs/DogApparel]
+
+# Add 'documentation' label to any root file changes, README, CHANGELOG, etc
+documentation:
+  - any: [README.md, CHANGELOG.md, LICENSE, Wiki.md]
+
+# Add the XML label to any XML files within the repository
+XML:
+  - [DogApparel/1.4/Defs/*.xml]
+
+configuration:
+  - .github/*yml
+  - .gitignore
+  - .gitattributes
+  - .vscode/*
+  - .devcontainer/*
+  - .editorconfig
+  - yamllint.yml
+images:
+  - public/**/*.{ico,svg,jpg,jpeg,png,gif}
+github:
+  - any: [.github/*, .github/workflows/]
+github_actions:
+  - .github/workflows/*
+policy:
+  - .github/ISSUE_TEMPLATE/*
+  - .github/PULL_TEMPLATE/*
+  - LICENSE
+  - SECURITY.md
+vscode:
+  - .vscode/*
