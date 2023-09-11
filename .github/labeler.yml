@@ -1,9 +1,9 @@
 source:
- - any:
+any:
  - src/DogApparel
  - src/docs/DogApparel
 documentation:
- - any:
+any:
  - README.md
  - CHANGELOG.md
  - CHANGELOG.TXT
@@ -13,12 +13,13 @@ documentation:
  - SUPPORT.md
  - Wiki.md
 XML:
- - any:
+any:
  - DogApparel/1.4/Defs/*.xml
  - DogApparel/patches/Defs/*.xml
  - DogApparel/About/About.xml
  - DogApparel/LoadFolders.xml
 configuration:
+any:
  - .github/*yml
  - .gitignore
  - .gitattributes
@@ -29,25 +30,28 @@ configuration:
  - .trunk/configs
  - DogApparel/.trunk/trunk.yaml
 images:
- - 'public/**/*.{ico,svg,jpg,jpeg,png,gif}'
- - Textures/DogApparel/Things/Pawn/Animal/Body/*png
- - Textures/DogApparel/Things/Pawn/Animal/Head/*png
- - Textures/DogApparel/Things/Pawn/Humanlike/Body/*png
- - Textures/DogApparel/Things/Pawn/Humanlike/Head/*png
-  github:
- - any:
- - .github/*
- - .github/workflows/*
+any:
+- 'public/**/*.{ico,svg,jpg,jpeg,png,gif}'
+- Textures/DogApparel/Things/Pawn/Animal/Body/*png
+- Textures/DogApparel/Things/Pawn/Animal/Head/*png
+- Textures/DogApparel/Things/Pawn/Humanlike/Body/*png
+- Textures/DogApparel/Things/Pawn/Humanlike/Head/*png
+github:
+any:
+- .github/*
+- .github/workflows/*
 github_actions:
- - .github/workflows/*.yml
- - .github/workflows/*.yaml
+any:
+- .github/workflows/*.yml
+- .github/workflows/*.yaml
 policy:
- - .github/ISSUE_TEMPLATE/*
- - .github/PULL_TEMPLATE/*
- - LICENSE
- - SECURITY.md
- - CODE_OF_CONDUCT.md
- - CONTRIBUTING.md
- - SUPPORT.md
+any:
+- .github/ISSUE_TEMPLATE/*
+- .github/PULL_TEMPLATE/*
+- LICENSE
+- SECURITY.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- SUPPORT.md
 vscode:
-  - .vscode/*
+- .vscode/*
