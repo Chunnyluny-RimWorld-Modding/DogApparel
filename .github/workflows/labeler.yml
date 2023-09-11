@@ -1,4 +1,4 @@
-name: "Pull Request Labeler"
+name: Pull Request Labeler
 on:
   pull_request_target:
   workflow_dispatch:
@@ -15,7 +15,7 @@ jobs:
     - name: Checkout Code
       uses: actions/checkout@v3
       with:
-        repository: "Chunnyluny/DogApparel"
+        repository: Chunnyluny-RimWorld-Modding/DogApparel
 
     - name: Label Pull Request
       id: label-the-PR
