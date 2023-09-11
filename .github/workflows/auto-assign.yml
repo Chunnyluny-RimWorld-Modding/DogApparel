@@ -1,0 +1,22 @@
+on:
+  issues:
+    types: [opened, edited, labeled, reopened]
+  pull_request:
+    types: [opened, edited, labeled, synchronize, reopened]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - name: Auto-assign issue
+      uses: pozil/auto-assign-issue@v1.12.0
+      with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: Chunnyluny
+          numOfAssignee: 1
+          allowSelfAssign: true
+          abortIfPreviousAssignees: false
+          removePreviousAssignees: false
+          
