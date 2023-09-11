@@ -10,7 +10,7 @@ jobs:
     name: Cache Trunk
     runs-on: ubuntu-latest
     permissions:
-      actions: write
+      actions: read-only
 
     steps:
       - name: Checkout
