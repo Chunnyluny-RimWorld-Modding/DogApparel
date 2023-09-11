@@ -1,33 +1,57 @@
-# Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
 source:
-  - any: [src/DogApparel, src/docs/DogApparel]
-
-# Add 'documentation' label to any root file changes, README, CHANGELOG, etc
+any:
+ - src/DogApparel
+ - src/docs/DogApparel
 documentation:
-  - any: [README.md, CHANGELOG.md, LICENSE, Wiki.md]
-
-# Add the XML label to any XML files within the repository
+any:
+ - README.md
+ - CHANGELOG.md
+ - CHANGELOG.TXT
+ - CODE_OF_CONDUCT.md
+ - CONTRIBUTING.md
+ - LICENSE
+ - SUPPORT.md
+ - Wiki.md
 XML:
-  - [DogApparel/1.4/Defs/*.xml]
-
+any:
+ - DogApparel/1.4/Defs/*.xml
+ - DogApparel/patches/Defs/*.xml
+ - DogApparel/About/About.xml
+ - DogApparel/LoadFolders.xml
 configuration:
-  - .github/*yml
-  - .gitignore
-  - .gitattributes
-  - .vscode/*
-  - .devcontainer/*
-  - .editorconfig
-  - yamllint.yml
+any:
+ - .github/*yml
+ - .gitignore
+ - .gitattributes
+ - .vscode/*
+ - .devcontainer/*
+ - .editorconfig
+ - yamllint.yml
+ - .trunk/configs
+ - DogApparel/.trunk/trunk.yaml
 images:
-  - public/**/*.{ico,svg,jpg,jpeg,png,gif}
+any:
+- 'public/**/*.{ico,svg,jpg,jpeg,png,gif}'
+- Textures/DogApparel/Things/Pawn/Animal/Body/*png
+- Textures/DogApparel/Things/Pawn/Animal/Head/*png
+- Textures/DogApparel/Things/Pawn/Humanlike/Body/*png
+- Textures/DogApparel/Things/Pawn/Humanlike/Head/*png
 github:
-  - any: [.github/*, .github/workflows/]
+any:
+- .github/*
+- .github/workflows/*
 github_actions:
-  - .github/workflows/*
+any:
+- .github/workflows/*.yml
+- .github/workflows/*.yaml
 policy:
-  - .github/ISSUE_TEMPLATE/*
-  - .github/PULL_TEMPLATE/*
-  - LICENSE
-  - SECURITY.md
+any:
+- .github/ISSUE_TEMPLATE/*
+- .github/PULL_TEMPLATE/*
+- LICENSE
+- SECURITY.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- SUPPORT.md
 vscode:
-  - .vscode/*
+- .vscode/*
