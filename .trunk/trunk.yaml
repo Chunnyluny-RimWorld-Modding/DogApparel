@@ -11,6 +11,7 @@ lint:
   - trivy@0.44.1
   - trufflehog@3.54.3
   - yamllint@1.32.0
+
 plugins:
   sources:
   - id: trunk
