@@ -1,6 +1,5 @@
 {
     "terminal.integrated.tabFocusMode": false,
-    "workbench.colorTheme": "Solarized Dark",
     "workbench.productIconTheme": "emoji-product-icons",
     "codeium.aggressiveShutdown": true,
     "codeium.enableSearch": true,
