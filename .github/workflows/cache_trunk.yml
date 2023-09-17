@@ -14,5 +14,5 @@ jobs:
           check-mode: populate_cache_only
 on:
   push:
-    branches: [master]
-    paths: [.trunk/trunk.yaml]
+    branches: master
+    paths: .trunk/trunk.yaml
