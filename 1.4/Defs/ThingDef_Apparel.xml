@@ -3,7 +3,7 @@
 	<ThingDef ParentName="ArmorMachineableBase">
 		<defName>Apparel_BasicHarness</defName>
 		<label>Basic Dog Harness</label>
-		<description>A basic dog harness that protect dogs against </description>
+		<description>A basic dog harness that is cheaper than an animal flak armour in stuffcost and available when Complex Clothing is researched.</description>
 		<techLevel>Industrial</techLevel>
 		<recipeMaker>
 			<researchPrerequisite>ComplexClothing</researchPrerequisite>
@@ -57,17 +57,17 @@
 				<li>Husky</li>
 				<li>LabradorRetriever</li>
 				<li>YorkShireTerrier</li>
-				<li MayRequire="mod.idname">DefName</li>
-				<li MayRequire="mod.idname">DefName</li>
-				<li MayRequire="mod.idname">DefName</li>
-				<li MayRequire="mod.idname">DefName</li>
-				<li MayRequire="mod.idname">DefName</li>
-				<li MayRequire="mod.idname">DefName</li>
-				<li MayRequire="mod.idname">DefName</li>
-				<li MayRequire="mod.idname">DefName</li>
-				<li>Rottweiler</li>
-				<li>ShihTzu</li>
-				<li>WelshTerrier</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Beagle</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Chihuahua</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Corgi</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.FrenchBulldog</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.GermanShepherd</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.GreatDane</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Poodle</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Pug</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Rottweiler</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.ShihTzu</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.WelshTerrier</li>
 			</tags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
