@@ -36,7 +36,7 @@ _Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwik
 
 This mod should make life on the Rim more fun by adding support dogs for pawns who need assistance. Support dogs are trained to help disabled pawns. My idea was to let dogs play a big role in the story. These dogs are trained to assist with things like spotting dangers, fetching stuff, and solving mysteries. My idea was inspired by Scooby-Doo and Sherlock Holmes for the detective theme. An additional research option will be introduced under the "Advanced Trainability" category called "support dogs".
 
-_“Just a heads-up, I'm still learning to use GitHub and coding stuff. I hope you can enjoy this mod, as I enjoy making it for you”._
+_“Just a heads-up, I'm still learning how to use GitHub and trying to understand how coding stuff works, so I hope you can enjoy this mod, as I enjoy making this mod”._
 
 ### Required mod dependency: [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907)
 
@@ -49,7 +49,7 @@ _“Just a heads-up, I'm still learning to use GitHub and coding stuff. I hope y
 
 - Dive into playful roleplay with Detective dogs, similar to Scooby-Doo and/or Sherlock Holmes style.
 - Twinning is winning, match your dog with their owner, by equipping them both with a detective outfit
-- The outfit includes a detective coat with matching hat and makes it complet with a magnifying glass, that will improves sight on pawns.
+- The outfit includes a detective coat with matching hat and makes it complete with a magnifying glass, which improves sight on pawns when equiped.
 - The detective apparel is used for roleplaying and has no other feature/functionailty.
 - Use animal footprints or pawprints as detective props and decor
 
@@ -70,7 +70,7 @@ Inspired by the protective principles of Rimmunation clothing, I present an inno
 
 Imagine a practical vest or harness, expertly crafted for canine comfort. Drawing from the ingenuity of bomb suits, this adaptation focuses on improving safety standards. Incorporated within the gear is a sensor calibrated to detect potential hazards like explosives and EMPs. Ahead of triggering, the sensor initiates an alert, sounding a warning akin to the familiar sound of a household smoke detector.
 
-Imagine a scenario where a dog, wears this danger detecting gear, roams the colony grounds. As the dog comes within proximity of danger, the sensor is activated, producing a distinct sound that echoes the early stages of a potential threat. This clever idea makes the colony more alert and strategic when facing enemy raids.
+Imagine a scenario where a dog wears this danger detecting gear, roams the colony grounds. As the dog comes within proximity of danger, the sensor is activated, producing a distinct sound that echoes the early stages of a potential threat. This clever idea makes the colony more alert and strategic when facing enemy raids.
 
 This security system will be called "Canine Safety Alert System." the advanced dogs are trained to encounter danger without getting hurt. The colony gains a trusted partner in maintaining safety.
 
@@ -110,7 +110,8 @@ I will prefer updating this mod on GitHub, since it is easier to implement new f
 - If you have any 🪲 bugreports, please give them "bug/error" 🏷️label and provide a [hugsliblog](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 - If you are interested in my discord community, you can join my Discord server by clicking the Discord button at the top.
 - Stay Chuned, ⭐ this repo to stay up-to-date on any feature updates or get notified on any other progress!!
+- All help is appreciated, whether texture contributions or coding help use the relevant labels so you will be put in the credit section.
 
 ## Acknowledgement
 
-Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon. Special thanks to people from the RimWorld Discord, Special credits to Octogiraffe for the idea and contribution of some of the textures. Special thanks to Serina that provided me with textures for my detective coat and allowed me to use in my own mod. 
