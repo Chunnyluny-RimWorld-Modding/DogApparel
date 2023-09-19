@@ -1,57 +1,49 @@
-source:
-any:
- - src/DogApparel
- - src/docs/DogApparel
-documentation:
-any:
- - README.md
- - CHANGELOG.md
- - CHANGELOG.TXT
- - CODE_OF_CONDUCT.md
- - CONTRIBUTING.md
- - LICENSE
- - SUPPORT.md
- - Wiki.md
-XML:
-any:
- - DogApparel/1.4/Defs/*.xml
- - DogApparel/patches/Defs/*.xml
- - DogApparel/About/About.xml
- - DogApparel/LoadFolders.xml
 configuration:
-any:
- - .github/*yml
- - .gitignore
- - .gitattributes
- - .vscode/*
- - .devcontainer/*
- - .editorconfig
- - yamllint.yml
- - .trunk/configs
- - DogApparel/.trunk/trunk.yaml
-images:
-any:
-- 'public/**/*.{ico,svg,jpg,jpeg,png,gif}'
-- Textures/DogApparel/Things/Pawn/Animal/Body/*png
-- Textures/DogApparel/Things/Pawn/Animal/Head/*png
-- Textures/DogApparel/Things/Pawn/Humanlike/Body/*png
-- Textures/DogApparel/Things/Pawn/Humanlike/Head/*png
+  any:
+    - .devcontainer/*
+    - .editorconfig
+    - .gitattributes
+    - .gitignore
+    - .github/*yml
+    - .trunk/configs
+    - .vscode/*
+    - DogApparel/.trunk/trunk.yaml
+documentation:
+  any:
+    - CHANGELOG.TXT
+    - CHANGELOG.md
+    - CODE_OF_CONDUCT.md
+    - CONTRIBUTING.md
+    - LICENSE
+    - README.md
+    - SUPPORT.md
+    - Wiki.md
 github:
-any:
-- .github/*
-- .github/workflows/*
+  any:
+    - .github/*
+    - .github/workflows/*
 github_actions:
-any:
-- .github/workflows/*.yml
-- .github/workflows/*.yaml
+  any:
+    - .github/workflows/*.yaml
+    - .github/workflows/*.yml
+images:
+  any:
+    - 'public/**/*.{ico,svg,jpg,jpeg,png,gif}'
+    - 'Textures/DogApparel/Things/Pawn/Animal/Body/*png'
+    - 'Textures/DogApparel/Things/Pawn/Animal/Head/*png'
+    - 'Textures/DogApparel/Things/Pawn/Humanlike/Body/*png'
+    - 'Textures/DogApparel/Things/Pawn/Humanlike/Head/*png'
 policy:
-any:
-- .github/ISSUE_TEMPLATE/*
-- .github/PULL_TEMPLATE/*
-- LICENSE
-- SECURITY.md
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- SUPPORT.md
-vscode:
-- .vscode/*
+  any:
+    - .github/ISSUE_TEMPLATE/*
+    - .github/PULL_TEMPLATE/*
+source:
+  any:
+    - src/DogApparel
+    - src/docs/DogApparel
+XML:
+  any:
+    - DogApparel/1.4/Defs/*.xml
+    - DogApparel/About/About.xml
+    - DogApparel/LoadFolders.xml
+    - DogApparel/patches/Defs/*.xml
