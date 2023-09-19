@@ -61,18 +61,18 @@
     "editor.cursorStyle": "block-outline",
     "workbench.iconTheme": "eq-material-theme-icons-darker",
     "yaml.schemas": {
-        "file:///c%3A/Users/chunl/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
+    "file:///c%3A/Users/chunl/.vscode/extensions/docsmsft.docs-yaml-1.0.1/dist/toc.schema.json": "/toc\\.yml/i"
     },
     "redhat.telemetry.enabled": true,
-    "workbench.startupEditor": "none",
+    "workbench.startupEditor": "readme",    
     "diffEditor.ignoreTrimWhitespace": false,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
-     //configures RWXML Language Server,
-            "rwxml.paths.rimWorld": "C:/Games/RimWorld",
-            // overrides default path / assumed path from rimWorld
-            "rwxml.paths.rimWorldData": "C:/Games/RimWorld/Data",
-            "rwxml.paths.rimWorldManaged": "C:/Games/RimWorld/RimWorldWin64_Data/Managed",
-            "rwxml.paths.localMods": "C:/Games/RimWorld/RimWorld\\Mods",
-            "rwxml.codeHighlighting.enabled": true,
-            "rwxml.diagnostics.enabled": true,
+    //configures RWXML Language Server,
+    "rwxml.paths.rimWorld": "C:/Games/RimWorld",
+    // overrides default path / assumed path from rimWorld
+    "rwxml.paths.rimWorldData": "C:/Games/RimWorld/Data",
+    "rwxml.paths.rimWorldManaged": "C:/Games/RimWorld/RimWorldWin64_Data/Managed",
+    "rwxml.paths.localMods": "C:/Games/RimWorld/RimWorld\\Mods",
+    "rwxml.codeHighlighting.enabled": true,
+    "rwxml.diagnostics.enabled": true,
 }
