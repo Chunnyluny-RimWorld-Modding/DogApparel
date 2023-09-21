@@ -1,5 +1,8 @@
 name: Pull Request
-on: [pull_request]
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: [master]
 concurrency:
   group: ${{ github.head_ref || github.run_id }}
   cancel-in-progress: true
@@ -16,9 +19,12 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.6.0
 
       - name: Trunk Check
-        uses: trunk-io/trunk-action@v1.1.7
+        uses: trunk-io/trunk-action@v1.1.9
+            
         with:
+          check-mode: all
+          cache: true
           arguments: --github-annotate-new-only=false
