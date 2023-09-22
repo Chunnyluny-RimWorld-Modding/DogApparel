@@ -4,11 +4,11 @@
   <img alt="Built for RimWorld" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FChunnyluny%2FDogApparel%2Fmaster%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&label=Built%20for%20RimWorld&style=for-the-badge&color=magenta" />
 </a>
 &emsp;
-<a href="https://github.com/Chunnyluny/DogApparel/blob/master/LICENSE">
+<a href="https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/blob/master/LICENSE">
   <img alt="GitHub License" src="https://img.shields.io/github/license/Chunnyluny/DogApparel?style=for-the-badge&logo=github&color=magenta" />
 </a>
 &emsp;
-<a href="https://github.com/Chunnyluny/DogApparel/issues">
+<a href="https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/issues">
   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Chunnyluny/DogApparel?style=for-the-badge&logo=github&color=magenta" />
 </a>
 &emsp;
@@ -16,7 +16,7 @@
   <img alt="Join me on Discord" src="https://img.shields.io/badge/join_me_on-discord-magenta?style=for-the-badge&logo=discord" />
 </a>
 &emsp;
-<a href="https://ko-fi.com/I2I8ND4C0">
+<a href="https://ko-fi.com/Chunnyluny">
   <img alt="Buy me a ko-fi" src="https://shields.io/badge/ko--fi-Buy_me_a_ko_fi-magenta?style=for-the-badge&logo=ko-fi" />
 </a>
 <p align="center">👩‍🎨 I'm currently learning to use these programs to design textures for mods and logos
@@ -87,7 +87,7 @@ I wouldn't advise it, as a general rule. If you really want to, start by backing
 ### Any requirement(s) for this mod to work?
 
 Yes this mod is created to use the [Animal Gear](https://steamcommunity.com/workshop/filedetails/?id=1541438907). You should also use a mod manager like [RimPy](https://github.com/rimpy-custom/RimPy/releases) or [RimSort](https://github.com/RimSort/RimSort)
-They make sure you load this mod in the right place. You can find more information about these mod managers in my [Troubleshooting Guide](https://github.com/Chunnyluny/troubleshootingguide/README.md).
+They make sure you load this mod in the right place. You can find more information about these mod managers in my [Troubleshooting Guide](https://github.com/Chunnyluny-RimWorld-Modding/troubleshootingguide/README.md).
 
 ### Combat Extended compatible?
 
@@ -105,8 +105,8 @@ I will prefer updating this mod on GitHub, since it is easier to implement new f
 
 ### Other questions, feedback or bugreports
 
-- If you have any ❓🤔 questions that are not listed in the FAQ, you can start a [new discussion](https://github.com/Chunnyluny/DogApparel/discussions)
-- If you have a small question, please give them the "question" 🏷️label and submit [a new issue](https://github.com/Chunnyluny/DogApparel/issues/new)
+- If you have any ❓🤔 questions that are not listed in the FAQ, you can start a [new discussion](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/discussions)
+- If you have a small question, please give them the "question" 🏷️label and submit [a new issue](https://github.com/Chunnyluny-RimWorld-Modding/DogApparel/issues/new)
 - If you have any 🪲 bugreports, please give them "bug/error" 🏷️label and provide a [hugsliblog](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 - If you are interested in my discord community, you can join my Discord server by clicking the Discord button at the top.
 - Stay Chuned, ⭐ this repo to stay up-to-date on any feature updates or get notified on any other progress!!
