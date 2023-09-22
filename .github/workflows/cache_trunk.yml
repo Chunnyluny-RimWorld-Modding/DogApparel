@@ -1,3 +1,8 @@
+on:
+  push:
+    branches: master
+    paths: .trunk/trunk.yaml
+
 jobs:
   cache_trunk:
     name: Cache Trunk
@@ -12,7 +17,3 @@ jobs:
         uses: trunk-io/trunk-action@v1
         with:
           check-mode: populate_cache_only
-on:
-  push:
-    branches: master
-    paths: .trunk/trunk.yaml
