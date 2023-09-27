@@ -17,6 +17,14 @@
   },
   "commit-message-editor.view.saveAndClose": true,
   "commit-message-editor.view.useMonospaceEditor": true,
+  "vscord.app.name": "Visual Studio Code",
+  "vscord.app.whitelistEnabled": true,
+  "vscord.status.idle.disconnectOnIdle": false,
+  "vscord.status.idle.resetElapsedTime": true,
+  "vscord.status.resetElapsedTimePerFile": true,
+  "vscord.app.whitelist": [
+    "685194640827219996"
+  ]
   "git.confirmSync": true,
   "auto-close-tag.fullMode": true,
   "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
@@ -123,5 +131,5 @@
   "rwxml.paths.rimWorldManaged": "C:/Games/RimWorld/RimWorldWin64_Data/Managed",
   "rwxml.paths.localMods": "C:/Games/RimWorld/RimWorld/Mods",
   "rwxml.codeHighlighting.enabled": true,
-  "rwxml.diagnostics.enabled": true
+  "rwxml.diagnostics.enabled": true,
 }
