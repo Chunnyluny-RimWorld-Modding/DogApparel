@@ -32,7 +32,7 @@
 
 _Hey there, fellow RimWorld enthusiasts! I'm the creator behind the Dog Apparel mod!_
 
-_Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information._
+_Dog Apparel brings some awesome new stuff to [RimWorld mod](https://rimworldwiki.com/wiki/Mods) for the [Ludeon Studios](https://ludeon.com/) game [RimWorld](https://rimworldgame.com/). Please see the [Acknowledgement section](#acknowledgement) below for important information. People that have provided me assistence on mod art or other help will be credited in the [Credits section](#credits)._
 
 This mod should make life on the Rim more fun by adding support dogs for pawns who need assistance. Support dogs are trained to help disabled pawns. My idea was to let dogs play a big role in the story. These dogs are trained to assist with things like spotting dangers, fetching stuff, and solving mysteries. My idea was inspired by Scooby-Doo and Sherlock Holmes for the detective theme. An additional research option will be introduced under the "Advanced Trainability" category called "support dogs".
 
@@ -114,4 +114,11 @@ I will prefer updating this mod on GitHub, since it is easier to implement new f
 
 ## Acknowledgement
 
-Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon. Special thanks to people from the RimWorld Discord, Special credits to Octogiraffe for the idea and contribution of some of the textures. Special thanks to Serina that provided me with textures for my detective coat and allowed me to use in my own mod. 
+Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+
+## Credits
+- Special thanks to people from the RimWorld Discord, especially Octogiraffe for the cool idea and contribution for the patron dog vest textures. Originally we did a collab but due to personal reasons he had to step away from the project.
+- Special thanks to SerinaCe that provided me with textures for my detective coat and allowed me to use in my own mod.
+- Special thanks to Jacklephage/Jackledead for the patience and the art skills and providing me with better improved textures for the basic harness. Also he is a good art teacher for explaining me how mod art works so I can eventually learn it myself.
+- Credits but not needed for Sir van from mod-art channel that provide me with the detective magifying glass.
+- I also want to thank mod-general, mod-development and mod-art as whole because I spent a lot of time asking questions to learn and people were patient enough to answer all my questions. 
