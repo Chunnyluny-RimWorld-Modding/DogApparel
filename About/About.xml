@@ -5,7 +5,7 @@
 		<li>Chunnyluny</li>
 	</author>
 	<packageId>chunnyluny.DogApparel</packageId>
-	<description>Text that describes this mod, fill in at the end of your worktree</description>
+	<description>Gives new uses for dogs. Assist disabled pawns with support dogs, spot bombs with K9 military dogs and solve mysteries with Dogtectives.</description>
 	<Url>https://github.com/Chunnyluny/DogApparel</Url>
 	<modDependencies>
 		<li>
