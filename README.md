@@ -53,13 +53,14 @@ _“Just a heads-up, I'm still learning how to use GitHub and trying to understa
 - The detective apparel is used for roleplaying and has no other feature/functionailty.
 - Use animal footprints or pawprints as detective props and decor
 
-### K9 Dogs Military Apparel 
+### K9 Dogs Military Apparel
 
 - Apparel like basic harness, vests, and bomb suits inspired by [[RH2] Rimmu-Nation² - Clothing](https://steamcommunity.com/workshop/filedetails/?id=2563506048)
 - Improve your military missions with K9 Military Dogs trained to spot bombs.
 - Equip this protective apparel on your dogs and ensure security during military missions.
 
 ### Research
+
 - Add "Support Dog Training" as a new research project. This research allows pawns, to assign tasks to their support dogs such as danger detection or item retrieving.
 
 ---
@@ -96,7 +97,7 @@ If you use Combat Extended in your modlist and have more info about regarding th
 
 ### Can I use this mod with any other mod(s)?
 
-I added textures for 11 Vanilla Animals Expanded dogs. I have checked before if there is any mod existing on the workshop that would would add the same items/features as my mod. But I have not found anything similar, so I believe it's quite rare to get any mod conflict. ```Place the 'Animal Gear' mod before this mod in the load order for proper functionality.``` You can provide me with incompatibility reports, by opening [an issue](https://github.com/Chunnyluny/DogApparel/issues/new).
+I added textures for 11 Vanilla Animals Expanded dogs. I have checked before if there is any mod existing on the workshop that would would add the same items/features as my mod. But I have not found anything similar, so I believe it's quite rare to get any mod conflict. `Place the 'Animal Gear' mod before this mod in the load order for proper functionality.` You can provide me with incompatibility reports, by opening [an issue](https://github.com/Chunnyluny/DogApparel/issues/new).
 
 ### Steam or GitHub and when available for release?
 
@@ -117,8 +118,9 @@ I will prefer updating this mod on GitHub, since it is easier to implement new f
 Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
 
 ## Credits
+
 - Special thanks to people from the RimWorld Discord, especially Octogiraffe for the cool idea and contribution for the patron dog vest textures. Originally we did a collab but due to personal reasons he had to step away from the project.
 - Special thanks to SerinaCe that provided me with textures for my detective coat and allowed me to use in my own mod.
 - Special thanks to Jacklephage/Jackledead for the patience and the art skills and providing me with better improved textures for the basic harness. Also he is a good art teacher for explaining me how mod art works so I can eventually learn it myself.
-- Credits but not needed for Sir van from mod-art channel that provide me with the detective magifying glass.
-- I also want to thank mod-general, mod-development and mod-art as whole because I spent a lot of time asking questions to learn and people were patient enough to answer all my questions. 
+- The detective magifying glass is drawn by someone that didn't want to be credited for, but I didn't draw it myself.
+- I also want to thank mod-general, mod-development and mod-art as whole because I spent a lot of time asking questions to learn and people were patient enough to answer all my questions.
