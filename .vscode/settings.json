@@ -1,9 +1,5 @@
 // Place your settings in this file to configure workspace settings.
 {
-  "audioCues.chatRequestSent": "auto",
-  "audioCues.chatResponseReceived": "auto",
-  "audioCues.debouncePositionChanges": true,
-  "audioCues.lineHasWarning": "auto",
   "auto-close-tag.fullMode": true,
   "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
   "auto-close-tag.SublimeText3Mode": true,
@@ -55,7 +51,6 @@
   "chat.editor.fontSize": 12,
   "chat.editor.fontWeight": "normal",
   "chat.editor.wordWrap": "on",
-  "C_Cpp.autocompleteAddParentheses": true,
   "csv-edit.fontFamilyInTable": "sameAsCodeEditor",
   "csv-edit.fontSizeInPx": 12,
   "codeium.aggressiveShutdown": false,
@@ -72,7 +67,6 @@
   },
   "commit-message-editor.view.saveAndClose": true,
   "commit-message-editor.view.useMonospaceEditor": true,
-  "codeQL.runningQueries.debug": true,
   "color-highlight.matchRgbWithNoFunction": true,
   "color-highlight.matchWords": true,
   "css.format.spaceAroundSelectorSeparator": true,
@@ -86,10 +80,6 @@
   "diffEditor.experimental.showMoves": true,
   "diffEditor.ignoreTrimWhitespace": false,
   "diffEditor.renderSideBySide": false,
-  "docxViewer.docxjs.debug": true,
-  "docxViewer.docxjs.experimental": true,
-  "docxViewer.docxjs.showChanges": true,
-  "dotnetAcquisitionExtension.existingDotnetPath": [],
   "editor.definitionLinkOpensInPeek": true,
   "editor.renderLineHighlightOnlyWhenFocus": true,
   "editor.mouseWheelZoom": false,
@@ -189,7 +179,6 @@
   "notebook.output.fontFamily": "Consolas, 'Courier New', monospace",
   "notebook.output.scrolling": true,
   "notebook.output.wordWrap": true,
-  "nuget.autoOpenOutputWindowOnRestore": "on",
   "projectManager.showParentFolderInfoOnDuplicates": true,
   "projectManager.supportSymlinksOnBaseFolders": true,
   "python.defaultInterpreterPath": "C:\\Users\\chunl\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
@@ -216,7 +205,6 @@
     "showCommandGroups": true
   },
   "terminal.explorerKind": "both",
-  "terminal.integrated.shellIntegration.suggestEnabled": true,
   "terminal.integrated.confirmOnExit": "always",
   "terminal.integrated.confirmOnKill": "always",
   "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
@@ -227,7 +215,6 @@
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.allowMnemonics": true,
   "terminal.integrated.cursorBlinking": true,
-  "terminal.integrated.enableBell": true,
   "terminal.sourceControlRepositoriesKind": "both",
   "terminal.integrated.commandsToSkipShell": [
     "psl.stepIn",
@@ -275,7 +262,7 @@
     "workbench.editorinputs.searchEditorInput": true,
     "imagePreview.previewEditor": true,
     "vscode.audioPreview": true,
-    "docxViewer.DocxEdit": true,
+
     "gitlens.rebase": true,
     "workbench.input.interactive": true,
     "mainThreadWebview-markdown.preview": true
@@ -346,7 +333,5 @@
   "vscord.behaviour.debug": true,
   "vscord.app.whitelistEnabled": true,
   "vscord.app.whitelist": ["685194640827219996"],
-  "editor.codeActionWidget.includeNearbyQuickFixes": true,
-  "super-figure.vectorFigureEditor": "C:/Program Files/Inkscape/bin/inkscape.exe",
-  "super-figure.bitmapFigureEditor": "C:/Program Files/GIMP 2/bin/gimp-2.10.exe"
+  "editor.codeActionWidget.includeNearbyQuickFixes": true
 }
