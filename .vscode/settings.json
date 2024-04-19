@@ -104,8 +104,6 @@
   "editor.cursorSmoothCaretAnimation": "explicit",
   "editor.cursorBlinking": "expand",
   "editor.stickyScroll.enabled": true,
-  "editor.defaultFoldingRangeProvider": "trunk.io",
-  "editor.defaultFormatter": "trunk.io",
   "editor.inlineSuggest.suppressSuggestions": true,
   "editor.unicodeHighlight.invisibleCharacters": false,
   "editor.formatOnSaveMode": "modificationsIfAvailable",
@@ -224,24 +222,8 @@
   ],
   "testing.showAllMessages": true,
   "timeline.pageOnScroll": true,
-  "trunk.inlineDecoratorsForAllExtensions": true,
-  "trunk.trace.server": "messages",
   "files.associations": {
     "*.yml": "yaml"
-  },
-  "files.exclude": {
-    "**/.trunk/*actions/": true,
-    "**/.trunk/*logs/": true,
-    "**/.trunk/*notifications/": true,
-    "**/.trunk/*out/": true,
-    "**/.trunk/*plugins/": true
-  },
-  "files.watcherExclude": {
-    "**/.trunk/*actions/": true,
-    "**/.trunk/*logs/": true,
-    "**/.trunk/*notifications/": true,
-    "**/.trunk/*out/": true,
-    "**/.trunk/*plugins/": true
   },
   "typescript.format.insertSpaceAfterConstructor": true,
   "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
@@ -252,7 +234,6 @@
   "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
   "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
   "typescript.format.insertSpaceAfterTypeAssertion": true,
-  "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
   "window.autoDetectColorScheme": true,
   "window.closeWhenEmpty": true,
   "window.commandCenter": true,
@@ -262,7 +243,6 @@
     "workbench.editorinputs.searchEditorInput": true,
     "imagePreview.previewEditor": true,
     "vscode.audioPreview": true,
-
     "gitlens.rebase": true,
     "workbench.input.interactive": true,
     "mainThreadWebview-markdown.preview": true
@@ -333,5 +313,19 @@
   "vscord.behaviour.debug": true,
   "vscord.app.whitelistEnabled": true,
   "vscord.app.whitelist": ["685194640827219996"],
-  "editor.codeActionWidget.includeNearbyQuickFixes": true
+  "editor.codeActionWidget.includeNearbyQuickFixes": true,
+  "accessibility.signals.debouncePositionChanges": true,
+  "accessibility.signals.lineHasWarning": {
+    "sound": "auto"
+  },
+  "accessibility.signals.chatRequestSent": {
+    "sound": "auto"
+  },
+  "accessibility.signals.chatResponseReceived": {
+    "sound": "auto"
+  },
+  "accessibility.signals.terminalBell": {
+    "sound": "on"
+  },
+  "terminal.integrated.enableVisualBell": true
 }

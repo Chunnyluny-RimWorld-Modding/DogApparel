@@ -5,8 +5,8 @@
 		<li>Chunnyluny</li>
 	</author>
 	<packageId>chunnyluny.DogApparel</packageId>
-<description>This mods adds more features to dogs on the Rim. The theme of the mod is to have dogs play a more important role in your colony. For example; assist disabled pawns with support dogs, spot bombs with K9 military dogs and solve mysteries with Dogtectives, this includes support-dogs and/or assistant,- service dogs and guide dogs. There is also support for 11 dogs from Vanilla Animals Expanded https://steamcommunity.com/sharedfiles/filedetails/?id=2871933948.</description>
-<Url>https://github.com/Chunnyluny-RimWorld-Modding/DogApparel</Url>
+	<description>This mods adds more features to dogs on the Rim. The theme of the mod is to have dogs play a more important role in your colony. For example; assist disabled pawns with support dogs, spot bombs with K9 military dogs and solve mysteries with Dogtectives, this includes support-dogs and/or assistant,- service dogs and guide dogs. There is also support for 11 dogs from Vanilla Animals Expanded https://steamcommunity.com/sharedfiles/filedetails/?id=2871933948.</description>
+	<Url>https://github.com/Chunnyluny-RimWorld-Modding/DogApparel</Url>
 	<modDependencies>
 		<li>
 			<packageId>Dylan.AnimalGear</packageId>
@@ -20,6 +20,6 @@
 	</loadAfter>
 	<supportedVersions>
 		<li>1.4</li>
-		<li>1.5</li>
+    <li>1.5</li>
 	</supportedVersions>
 </ModMetaData>
