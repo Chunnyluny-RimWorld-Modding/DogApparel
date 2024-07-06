@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<SoundDef>
+		<defName>BombDetecting</defName>
+		<context>MapOnly</context>
+		<eventNames />
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>bomb_detecting_sound</clipPath>
+					</li>
+				</grains>
+				<volumeRange>
+					<min>26</min>
+					<max>26</max>
+				</volumeRange>
+				<pitchRange>
+					<min>0.9082353</min>
+					<max>1.114706</max>
+				</pitchRange>
+				<distRange>
+					<min>0</min>
+					<max>50</max>
+				</distRange>
+			</li>
+		</subSounds>
+	</SoundDef>
+	<SoundDef>
+		<defName>ZipperSound</defName>
+		<context>MapOnly</context>
+		<eventNames />
+		<subSounds>
+			<li>
+				<grains>
+					<li Class="AudioGrain_Clip">
+						<clipPath>zipper_vest_sound</clipPath>
+					</li>
+				</grains>
+				<volumeRange>
+					<min>35</min>
+					<max>35</max>
+				</volumeRange>
+				<pitchRange>
+					<min>0.9311765</min>
+					<max>1.091765</max>
+				</pitchRange>
+				<distRange>
+					<min>0</min>
+					<max>70</max>
+				</distRange>
+				<sustainLoop>False</sustainLoop>
+			</li>
+		</subSounds>
+	</SoundDef>
+</Defs>

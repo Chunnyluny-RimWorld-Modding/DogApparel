@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="ArmorMachineableBase">
+		<defName>Apparel_BasicHarness</defName>
+		<label>Basic Dog Harness</label>
+		<description>A basic dog harness that is cheaper than an animal flak armour in stuffcost and available when Complex Clothing is researched.</description>
+		<techLevel>Industrial</techLevel>
+		<recipeMaker>
+			<researchPrerequisite>ComplexClothing</researchPrerequisite>
+			<unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+			<recipeUsers>
+				<li>ElectricTailoringBench</li>
+				<li>HandTailoringBench</li>
+			</recipeUsers>
+		</recipeMaker>
+		<graphicData>
+			<texPath>Textures/DogApparel/Things/Pawn/Animal/Apparel/Body/BasicHarness</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<WorkToMake>1200</WorkToMake>
+			<MaxHitPoints>200</MaxHitPoints>
+			<Mass>4</Mass>
+			<Flammability>0.5</Flammability>
+			<ArmorRating_Blunt>0.30</ArmorRating_Blunt>
+			<ArmorRating_Sharp>1.00</ArmorRating_Sharp>
+			<ArmorRating_Heat>0.25</ArmorRating_Heat>
+			<Insulation_Cold>1</Insulation_Cold>
+			<Insulation_Heat>1</Insulation_Heat>
+			<EquipDelay>5</EquipDelay>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>-0.08</MoveSpeed>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Apparel</li>
+		</thingCategories>
+		<costList>
+			<costStuffCount>50</costStuffCount>
+			<stuffCategories>
+				<li>Fabric</li>
+				<li>Leathery</li>
+			</stuffCategories>
+		</costList>
+		<apparel>
+			<careIfWornByCorpse>false</careIfWornByCorpse>
+			<bodyPartGroups>
+				<li>Torso</li>
+				<li>Back</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Things/Pawn/Animal/Apparel/Body/BasicHarness</wornGraphicPath>
+			<layers>
+				<li>OnSkin</li>
+			</layers>
+			<tags>
+				<li>Animal</li>
+				<li>Husky</li>
+				<li>LabradorRetriever</li>
+				<li>YorkShireTerrier</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Beagle</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Chihuahua</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Corgi</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.FrenchBulldog</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.GermanShepherd</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.GreatDane</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Poodle</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Pug</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.Rottweiler</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.ShihTzu</li>
+				<li MayRequire="vanillaexpanded.vanillaanimalsexpanded">AEXP.WelshTerrier</li>
+			</tags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>4</weight>
+					<only>(0.33,0.33,0.33,1)</only>
+				</li>
+				<li>
+					<weight>4</weight>
+					<only>(0.65,0.65,0.65,1)</only>
+				</li>
+				<li>
+					<weight>4</weight>
+					<min>(0.3,0.3,0.3,1)</min>
+					<max>(0.5,0.5,0.5,1)</max>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+</Defs>
