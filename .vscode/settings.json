@@ -42,7 +42,6 @@
     "track",
     "wbr"
   ],
-  "autoflake-extension.check": true,
   "bookmarks.label.suggestion": "suggestWhenSelectedOrLineWhenNoSelected",
   "bookmarks.useWorkaroundForFormatters": true,
   "bookmarks.sideBar.expanded": true,
@@ -179,7 +178,6 @@
   "notebook.output.wordWrap": true,
   "projectManager.showParentFolderInfoOnDuplicates": true,
   "projectManager.supportSymlinksOnBaseFolders": true,
-  "python.defaultInterpreterPath": "C:\\Users\\chunl\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
   "rainbow_csv.align_in_scratch_file": true,
   "rainbow_csv.csv_lint_detect_trailing_spaces": true,
   "rainbow_csv.enable_context_menu_head": true,
@@ -281,21 +279,14 @@
   "workbench.editor.wrapTabs": true,
   "workbench.experimental.share.enabled": true,
   "[xml]": {
-    "editor.defaultFormatter": "DotJoshJohnson.xml"
+    "editor.defaultFormatter":
   },
   "xml.symbols.maxItemsComputed": 8000,
-  "xmlTools.enableXmlTreeViewCursorSync": true,
-  "xmlTools.removeCommentsOnMinify": true,
-  "xmlTools.splitAttributesOnFormat": true,
-  "xmlTools.enforcePrettySelfClosingTagOnFormat": true,
-  "xmlTools.xmlFormatterImplementation": "classic",
   "xml.codeLens.enabled": true,
   "xml.format.spaceBeforeEmptyCloseTag": true,
   "[yaml]": {
-    "editor.defaultFormatter": "redhat.vscode-yaml"
+    "editor.defaultFormatter": "DotJoshJohnson.yaml"
   },
-  "yaml.schemas": {},
-  "yaml.keyOrdering": true,
   "vscord.app.name": "Visual Studio Code",
   "vscord.status.resetElapsedTimePerFile": true,
   "vscord.status.state.text.idle": "Not doing anything",
@@ -314,7 +305,6 @@
   "vscord.app.whitelistEnabled": true,
   "vscord.app.whitelist": ["685194640827219996"],
   "editor.codeActionWidget.includeNearbyQuickFixes": true,
-  "accessibility.signals.debouncePositionChanges": true,
   "accessibility.signals.lineHasWarning": {
     "sound": "auto"
   },
@@ -327,5 +317,6 @@
   "accessibility.signals.terminalBell": {
     "sound": "on"
   },
-  "terminal.integrated.enableVisualBell": true
+  "terminal.integrated.enableVisualBell": true,
+  "accessibility.signalOptions.debouncePositionChanges": true
 }
