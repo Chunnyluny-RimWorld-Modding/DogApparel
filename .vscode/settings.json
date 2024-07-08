@@ -279,13 +279,13 @@
   "workbench.editor.wrapTabs": true,
   "workbench.experimental.share.enabled": true,
   "[xml]": {
-    "editor.defaultFormatter":
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "xml.symbols.maxItemsComputed": 8000,
   "xml.codeLens.enabled": true,
   "xml.format.spaceBeforeEmptyCloseTag": true,
   "[yaml]": {
-    "editor.defaultFormatter": "DotJoshJohnson.yaml"
+    "editor.defaultFormatter": "redhat.vscode-yaml"
   },
   "vscord.app.name": "Visual Studio Code",
   "vscord.status.resetElapsedTimePerFile": true,
